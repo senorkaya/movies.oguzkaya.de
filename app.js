@@ -4,7 +4,7 @@ const enc = encodeURIComponent;
 
 const state = { movies: [], mood: "Alle", sort: "rating" };
 
-const filmUrl = m => `${location.origin}/film/${m.slug}`;
+const filmUrl = m => `${location.origin}/film/${m.slug}/`;
 const runtime = min => `${Math.floor(min / 60)} Std. ${min % 60} Min.`;
 const stamp = m => `<span class="stamp"><b>${esc(m.rating)}</b><small>/10</small></span>`;
 
@@ -134,7 +134,7 @@ function openFilm(slug, push = true) {
   $("overlay").hidden = false;
   document.body.classList.add("locked");
   document.title = `${m.title} – Oguz' Filmempfehlungen`;
-  if (push && location.pathname !== `/film/${slug}`) history.pushState({ slug }, "", `/film/${slug}`);
+  if (push && location.pathname !== `/film/${slug}/`) history.pushState({ slug }, "", `/film/${slug}/`);
 }
 
 function closeFilm(push = true) {
