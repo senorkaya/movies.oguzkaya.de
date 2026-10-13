@@ -5,17 +5,34 @@
     "year": 2025,
     "director": "Yorgos Lanthimos",
     "runtime": 118,
-    "genres": ["Sci-Fi", "Thriller", "Komödie"],
-    "moods": ["Mindfuck", "Schwarzhumorig", "Sci-Fi"],
+    "genres": [
+      "Sci-Fi",
+      "Thriller",
+      "Komödie"
+    ],
+    "moods": [
+      "Aluhut",
+      "Spannung",
+      "Mindfuck"
+    ],
     "rating": 10,
-    "added": "2026-10-13",
-    "featured": true,
-    "top": 1,
-    "poster": "/posters/bugonia.jpg",
-    "backdrop": "/backdrops/bugonia.jpg",
-    "logline": "Zwei Verschwörungstheoretiker entführen die Chefin eines Pharmakonzerns – felsenfest überzeugt, dass sie eine Außerirdische ist.",
-    "review": "",
-    "watchIf": ["Poor Things", "The Lobster", "Parasite"]
+    "noTrailer": true,
+    "poster": "posters/bugonia.jpg",
+    "backdrop": "backdrops/bugonia.jpg",
+    "logline": "Zwei Verschwörungstheoretiker entführen die Chefin eines Pharmakonzerns, weil sie überzeugt sind, dass sie eine Außerirdische ist.",
+    "review": "Absolute Empfehlung für die Aluhut-Träger unter uns. Der Film hält dich die ganze Zeit auf Tiptoes und die Spannung durchgehend hoch. Mehr will ich nicht verraten, um möglichst wenig zu spoilern. Guckt auf gar keinen Fall den Trailer, sondern springt einfach rein.",
+    "highlight": "4 Oscar-Nominierungen",
+    "awards": {
+      "won": [
+        "Europäischer Filmpreis: Bestes Make-up"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Beste Hauptdarstellerin (Emma Stone), Adaptiertes Drehbuch, Filmmusik",
+        "Golden Globe: Beste Komödie, Emma Stone, Jesse Plemons",
+        "BAFTA: 5 Nominierungen, u. a. Regie",
+        "Filmfestspiele Venedig: Goldener Löwe"
+      ]
+    }
   },
   {
     "slug": "i-am-mother",
@@ -23,33 +40,235 @@
     "year": 2019,
     "director": "Grant Sputore",
     "runtime": 113,
-    "genres": ["Sci-Fi", "Thriller"],
-    "moods": ["Mindfuck", "Sci-Fi", "Kammerspiel"],
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "moods": [
+      "KI",
+      "Sci-Fi",
+      "Mindfuck"
+    ],
     "rating": 10,
-    "added": "2026-10-13",
-    "top": 2,
-    "poster": "/posters/i-am-mother.jpg",
-    "backdrop": "/backdrops/i-am-mother.jpg",
-    "logline": "Nach dem Ende der Menschheit zieht ein Roboter in einem abgeschotteten Bunker ein Mädchen groß – bis eine Fremde vor der Tür steht.",
-    "review": "",
-    "watchIf": ["Ex Machina", "Arrival", "10 Cloverfield Lane"]
+    "poster": "posters/i-am-mother.jpg",
+    "backdrop": "backdrops/i-am-mother.jpg",
+    "logline": "Ein Mädchen wächst in einem abgeschotteten Bunker auf, großgezogen von einem Roboter, der die Menschheit neu aufbauen soll.",
+    "review": "Mit großem Abstand mein absoluter Lieblingsfilm zum Thema KI. Matrix ist letztendlich auch ein KI-Film – der hier ist um Längen besser. Er lässt dich mit der Frage zurück, wie wir gute KI wirklich definieren, und die trägst du danach noch ein, zwei Wochen mit dir rum. Und er wird mit jedem Mal besser: Ich hab ihn schon mehrmals geguckt und jedes Mal fallen mir neue Dinge auf. Wenn man das Ende kennt, ergibt der Anfang noch mal einen ganz anderen Sinn. Absolute Empfehlung für alle KI-Fans.",
+    "awards": {
+      "won": [],
+      "nominated": [
+        "AACTA Award (Australien): Beste Nebendarstellerin (Hilary Swank), Beste visuelle Effekte"
+      ]
+    }
   },
   {
     "slug": "the-invisible-guest",
-    "title": "The Invisible Guest",
-    "aka": "Der unsichtbare Gast",
+    "title": "Der unsichtbare Gast",
+    "aka": "Contratiempo / The Invisible Guest",
     "year": 2016,
     "director": "Oriol Paulo",
     "runtime": 107,
-    "genres": ["Drama", "Mystery", "Thriller"],
-    "moods": ["Plot-Twist", "Thriller", "Mindfuck"],
+    "genres": [
+      "Krimi",
+      "Mystery",
+      "Thriller"
+    ],
+    "moods": [
+      "Plot-Twist",
+      "Spannung"
+    ],
     "rating": 8,
-    "added": "2026-10-13",
-    "top": 3,
-    "poster": "/posters/the-invisible-guest.jpg",
-    "backdrop": "/backdrops/the-invisible-guest.jpg",
-    "logline": "Ein Geschäftsmann wacht neben seiner toten Geliebten auf und hat eine Nacht, um seiner Anwältin zu beweisen, dass er unschuldig ist.",
-    "review": "",
-    "watchIf": ["Gone Girl", "Die üblichen Verdächtigen", "Prisoners"]
+    "poster": "posters/the-invisible-guest.jpg",
+    "backdrop": "backdrops/the-invisible-guest.jpg",
+    "logline": "Ein erfolgreicher Geschäftsmann steht unter Mordverdacht und hat eine Nacht, um mit seiner Anwältin seine Verteidigung vorzubereiten.",
+    "review": "Richtig cooler Film für Leute, die Detektivfilme mögen. Guter Spannungsbogen – und vor allem hält er die Spannung. Der Film schafft es super gut, dich ständig zu überraschen.",
+    "awards": {
+      "won": [
+        "Portland International Film Festival: Publikumspreis"
+      ],
+      "nominated": [
+        "Premio Gaudí: Bester Schnitt"
+      ]
+    }
+  },
+  {
+    "slug": "die-taschendiebin",
+    "title": "Die Taschendiebin",
+    "aka": "The Handmaiden",
+    "year": 2016,
+    "director": "Park Chan-wook",
+    "runtime": 145,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "moods": [
+      "Plot-Twist",
+      "Spannung"
+    ],
+    "rating": 8,
+    "noTrailer": true,
+    "poster": "posters/die-taschendiebin.jpg",
+    "backdrop": "backdrops/die-taschendiebin.jpg",
+    "logline": "Korea in den 1930ern: Eine junge Taschendiebin wird als Dienstmädchen bei einer reichen japanischen Erbin eingeschleust.",
+    "review": "Auch ein richtig geiler Film für Leute, die auf Plot-Twists stehen. Du kannst nie vorhersagen, was als Nächstes passiert. Auch hier gilt: auf keinen Fall den Trailer gucken, sondern direkt in den Film reinspringen.",
+    "highlight": "BAFTA-Gewinner",
+    "awards": {
+      "won": [
+        "BAFTA: Bester nicht-englischsprachiger Film",
+        "Cannes: Vulcain-Preis für das Szenenbild",
+        "Blue Dragon Awards: 3 Preise, u. a. Beste Hauptdarstellerin",
+        "Baeksang Arts Awards: Großer Preis"
+      ],
+      "nominated": [
+        "Cannes: Goldene Palme",
+        "Critics' Choice: Bester fremdsprachiger Film"
+      ]
+    }
+  },
+  {
+    "slug": "10-cloverfield-lane",
+    "title": "10 Cloverfield Lane",
+    "year": 2016,
+    "director": "Dan Trachtenberg",
+    "runtime": 104,
+    "genres": [
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "moods": [
+      "Aluhut",
+      "Spannung",
+      "Sci-Fi"
+    ],
+    "rating": 7,
+    "poster": "posters/10-cloverfield-lane.jpg",
+    "backdrop": "backdrops/10-cloverfield-lane.jpg",
+    "logline": "Nach einem Autounfall wacht eine junge Frau in einem Bunker auf. Der Mann, der sie dort festhält, sagt, er habe ihr das Leben gerettet.",
+    "review": "Auch ein sehr cooler Film für Aluhut-Träger und Verschwörungstheorie-Fanatiker. Kann ich nur empfehlen – hat Spaß gemacht zu gucken.",
+    "highlight": "3 Saturn Awards",
+    "awards": {
+      "won": [
+        "Saturn Awards: Bester Thriller, Beste Hauptdarstellerin, Bester Nebendarsteller (John Goodman)"
+      ],
+      "nominated": [
+        "Critics' Choice: Bester Sci-Fi/Horror-Film",
+        "DGA Award: Bestes Regiedebüt"
+      ]
+    }
+  },
+  {
+    "slug": "the-grand-budapest-hotel",
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "director": "Wes Anderson",
+    "runtime": 99,
+    "genres": [
+      "Komödie",
+      "Abenteuer"
+    ],
+    "moods": [
+      "Augenschmaus",
+      "Komödie"
+    ],
+    "rating": 7,
+    "poster": "posters/the-grand-budapest-hotel.jpg",
+    "backdrop": "backdrops/the-grand-budapest-hotel.jpg",
+    "logline": "Ein legendärer Hotel-Concierge und sein junger Page geraten in den 1930ern in eine wilde Jagd um ein wertvolles Gemälde.",
+    "review": "Bekommt von mir wenig Punkte für die Story – die ist relativ vorhersehbar und nicht so krass besonders. Aber der Film hat nicht umsonst seine Oscars für Szenenbild, Kostüme und Co. bekommen: ein echter Augenschmaus mit unfassbar schöner Ästhetik. Hat einfach richtig Spaß gemacht zu schauen.",
+    "highlight": "4 Oscars",
+    "awards": {
+      "won": [
+        "Oscar: Szenenbild, Kostüme, Make-up, Filmmusik",
+        "Golden Globe: Beste Komödie",
+        "BAFTA: 5 Preise, u. a. Bestes Originaldrehbuch",
+        "Berlinale: Silberner Bär (Großer Preis der Jury)"
+      ],
+      "nominated": [
+        "Oscar: 9 Nominierungen insgesamt, u. a. Bester Film und Beste Regie"
+      ]
+    }
+  },
+  {
+    "slug": "anora",
+    "title": "Anora",
+    "year": 2024,
+    "director": "Sean Baker",
+    "runtime": 139,
+    "genres": [
+      "Drama",
+      "Komödie"
+    ],
+    "moods": [
+      "Drama"
+    ],
+    "rating": 5,
+    "poster": "posters/anora.jpg",
+    "backdrop": "backdrops/anora.jpg",
+    "logline": "Eine Stripperin aus Brooklyn lernt den Sohn eines russischen Oligarchen kennen – und heiratet ihn kurzerhand in Las Vegas.",
+    "review": "Fand ich ganz okay, kann man schon mal gucken. Coole, interessante Story mit guten Szenen – und vor allem sehr realistisch, sehr realitätsnah. Dafür gab's wohl auch die großen Preise. Hat Spaß gemacht, war aber jetzt nichts krass Besonderes.",
+    "highlight": "5 Oscars · Goldene Palme",
+    "awards": {
+      "won": [
+        "Oscar: Bester Film, Regie, Hauptdarstellerin (Mikey Madison), Originaldrehbuch, Schnitt",
+        "Cannes: Goldene Palme",
+        "BAFTA: Beste Hauptdarstellerin, Casting",
+        "Critics' Choice: Bester Film"
+      ],
+      "nominated": [
+        "Golden Globe: 5 Nominierungen, u. a. Beste Komödie"
+      ]
+    }
+  },
+  {
+    "slug": "one-of-them-days",
+    "title": "One of Them Days",
+    "year": 2025,
+    "director": "Lawrence Lamont",
+    "runtime": 97,
+    "genres": [
+      "Komödie"
+    ],
+    "moods": [
+      "Komödie"
+    ],
+    "rating": 6,
+    "poster": "posters/one-of-them-days.jpg",
+    "backdrop": "backdrops/one-of-them-days.jpg",
+    "logline": "Zwei beste Freundinnen müssen innerhalb eines Tages ihre Miete zusammenkratzen, sonst fliegen sie aus der Wohnung.",
+    "review": "Lustiger Film, kann man sich auf jeden Fall anschauen. Die Geschichte ist ein bisschen vorhersehbar, aber allgemein ist der Film echt lustig. Perfekt, um ihn sich entspannt nebenbei zu geben – man muss nicht groß mitdenken.",
+    "awards": {
+      "won": [
+        "Black Reel Award: Bestes Erstlingsdrehbuch"
+      ],
+      "nominated": [
+        "Independent Spirit Awards: 4 Nominierungen, u. a. Keke Palmer und SZA"
+      ]
+    }
+  },
+  {
+    "slug": "prospect",
+    "title": "Prospect",
+    "aka": "Niemand überlebt allein",
+    "year": 2018,
+    "director": "Zeek Earl & Christopher Caldwell",
+    "runtime": 100,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "moods": [
+      "Sci-Fi"
+    ],
+    "rating": 7,
+    "poster": "posters/prospect.jpg",
+    "backdrop": "backdrops/prospect.jpg",
+    "logline": "Ein Teenager und ihr Vater landen auf einem fremden Waldmond, um dort wertvolle Edelsteine zu schürfen.",
+    "review": "Ganz komischer Film: Die Welt, die hier aufgebaut wird, ist unfassbar interessant – aber der Film lässt dich mit super vielen offenen Fragen zurück. Genau das lässt ihn bei mir sehr in Erinnerung bleiben. Man will eigentlich viel mehr über diese Welt erfahren, aber die Fragen werden einfach nicht beantwortet. Den würde ich voll gerne als Serie sehen.",
+    "awards": {
+      "won": [
+        "SXSW: Adam Yauch Hörnblowér Award"
+      ],
+      "nominated": []
+    }
   }
 ]
