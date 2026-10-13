@@ -8,7 +8,10 @@ Meine Filmempfehlungen für Freunde. Nur HTML, CSS und JavaScript, keine Depende
 2. Eintrag in `movies.json` ergänzen:
    - `slug`, `title`, optional `aka` (Originaltitel), `year`, `director`, `runtime` (Minuten), `genres`
    - `moods`: Filter auf der Seite (z. B. „Mindfuck“, „Plot-Twist“)
-   - `rating` (0–10) und `review` (meine Meinung)
+   - `scores`: `story`, `unterhaltung`, `schauspiel`, `look` (je 1–5, halbe Punkte erlaubt)
+   - `rating`: Gesamtnote 1–5 = (Story × 2 + Unterhaltung + Schauspiel + Look) ÷ 5, eine Nachkommastelle. Darf von Hand angepasst werden.
+     Das Urteil-Wort ergibt sich daraus: ab 4,5 Pflichtfilm, ab 3,5 Empfehlung, ab 2,5 Kann man gucken, sonst Lieber skippen.
+   - `review`: meine Meinung
    - `logline`: ein Satz, worum es geht. Immer ohne Spoiler.
    - `noTrailer: true` blendet den Tipp „Keinen Trailer gucken“ ein
    - `highlight`: kurzer Preis-Hinweis auf der Karte (z. B. „4 Oscars“)

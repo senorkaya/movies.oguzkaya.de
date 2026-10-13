@@ -15,7 +15,13 @@
       "Spannung",
       "Mindfuck"
     ],
-    "rating": 10,
+    "rating": 5.0,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 5,
+      "schauspiel": 5,
+      "look": 5
+    },
     "favorite": true,
     "noTrailer": true,
     "poster": "posters/bugonia.jpg",
@@ -50,7 +56,13 @@
       "Sci-Fi",
       "Mindfuck"
     ],
-    "rating": 10,
+    "rating": 5.0,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 5,
+      "schauspiel": 5,
+      "look": 5
+    },
     "favorite": true,
     "poster": "posters/i-am-mother.jpg",
     "backdrop": "backdrops/i-am-mother.jpg",
@@ -79,7 +91,13 @@
       "Plot-Twist",
       "Spannung"
     ],
-    "rating": 8,
+    "rating": 4.0,
+    "scores": {
+      "story": 4.5,
+      "unterhaltung": 4.5,
+      "schauspiel": 4,
+      "look": 2.5
+    },
     "favorite": true,
     "lastWatched": 1,
     "poster": "posters/the-invisible-guest.jpg",
@@ -110,7 +128,13 @@
       "Plot-Twist",
       "Spannung"
     ],
-    "rating": 8,
+    "rating": 4.3,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 4.5,
+      "schauspiel": 4,
+      "look": 3
+    },
     "favorite": true,
     "lastWatched": 3,
     "noTrailer": true,
@@ -147,7 +171,13 @@
       "Spannung",
       "Sci-Fi"
     ],
-    "rating": 7,
+    "rating": 3.2,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 4,
+      "schauspiel": 3,
+      "look": 3
+    },
     "poster": "posters/10-cloverfield-lane.jpg",
     "backdrop": "backdrops/10-cloverfield-lane.jpg",
     "logline": "Nach einem Autounfall wacht eine junge Frau in einem Bunker auf. Der Mann, der sie dort festhält, sagt, er habe ihr das Leben gerettet.",
@@ -177,7 +207,13 @@
       "Augenschmaus",
       "Komödie"
     ],
-    "rating": 7,
+    "rating": 3.0,
+    "scores": {
+      "story": 1.5,
+      "unterhaltung": 3,
+      "schauspiel": 4,
+      "look": 5
+    },
     "poster": "posters/the-grand-budapest-hotel.jpg",
     "backdrop": "backdrops/the-grand-budapest-hotel.jpg",
     "logline": "Ein legendärer Hotel-Concierge und sein junger Page geraten in den 1930ern in eine wilde Jagd um ein wertvolles Gemälde.",
@@ -208,7 +244,13 @@
     "moods": [
       "Drama"
     ],
-    "rating": 5,
+    "rating": 3.9,
+    "scores": {
+      "story": 3.5,
+      "unterhaltung": 2.5,
+      "schauspiel": 5,
+      "look": 5
+    },
     "poster": "posters/anora.jpg",
     "backdrop": "backdrops/anora.jpg",
     "logline": "Eine Stripperin aus Brooklyn lernt den Sohn eines russischen Oligarchen kennen – und heiratet ihn kurzerhand in Las Vegas.",
@@ -238,7 +280,13 @@
     "moods": [
       "Komödie"
     ],
-    "rating": 6,
+    "rating": 2.7,
+    "scores": {
+      "story": 2.5,
+      "unterhaltung": 3,
+      "schauspiel": 2.5,
+      "look": 3
+    },
     "poster": "posters/one-of-them-days.jpg",
     "backdrop": "backdrops/one-of-them-days.jpg",
     "logline": "Zwei beste Freundinnen müssen innerhalb eines Tages ihre Miete zusammenkratzen, sonst fliegen sie aus der Wohnung.",
@@ -265,7 +313,13 @@
     "moods": [
       "Sci-Fi"
     ],
-    "rating": 7,
+    "rating": 4.1,
+    "scores": {
+      "story": 3.5,
+      "unterhaltung": 3.5,
+      "schauspiel": 5,
+      "look": 5
+    },
     "lastWatched": 2,
     "poster": "posters/prospect.jpg",
     "backdrop": "backdrops/prospect.jpg",

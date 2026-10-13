@@ -7,7 +7,28 @@ const trophy = `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentCol
 let movies = [];
 let mood = "Alle";
 
-const score = m => `<div class="score"><b>${esc(m.rating)}</b><span>/10</span></div>`;
+const fmt = n => Number(n).toLocaleString("de-DE", { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+const score = m => `<div class="score"><b>${fmt(m.rating)}</b><span>/5</span></div>`;
+
+// Urteil aus der Gesamtnote (Skala 1–5)
+function verdict(n) {
+  if (n >= 4.5) return "Pflichtfilm";
+  if (n >= 3.5) return "Empfehlung";
+  if (n >= 2.5) return "Kann man gucken";
+  return "Lieber skippen";
+}
+const verdictPill = m => `<span class="verdict ${m.rating >= 4.5 ? "top" : ""}">${verdict(m.rating)}</span>`;
+
+const CATS = [["story", "Story", "zählt doppelt"], ["unterhaltung", "Unterhaltung / Spannung"], ["schauspiel", "Schauspiel"], ["look", "Look & Sound"]];
+const bars = m => !m.scores ? "" : `
+  <ul class="bars">
+    ${CATS.map(([k, label, note]) => `
+      <li>
+        <span class="bar-label">${label}${note ? ` <small>${note}</small>` : ""}</span>
+        <span class="bar"><i style="width:${(m.scores[k] / 5) * 100}%"></i></span>
+        <span class="bar-val">${fmt(m.scores[k])}</span>
+      </li>`).join("")}
+  </ul>`;
 const hours = min => `${Math.floor(min / 60)} Std. ${min % 60} Min.`;
 
 fetch("movies.json")
@@ -35,7 +56,7 @@ const card = m => `
     <div class="card-body">
       <h3>${esc(m.title)}</h3>
       <div class="meta">${esc(m.year)} · ${esc(m.genres[0])}</div>
-      ${score(m)}
+      <div class="rating">${score(m)}${verdictPill(m)}</div>
       ${m.highlight ? `<div class="award">${trophy}${esc(m.highlight)}</div>` : ""}
     </div>
   </button>`;
@@ -56,11 +77,14 @@ function renderSheet(m) {
     <div class="sheet-body">
       <h2>${esc(m.title)}</h2>
       ${m.aka ? `<div class="aka">${esc(m.aka)}</div>` : ""}
-      ${score(m)}
+      <div class="rating">${score(m)}${verdictPill(m)}</div>
       <div class="facts">${esc(m.year)} · ${esc(m.director)} · ${hours(m.runtime)} · ${m.genres.map(esc).join(", ")}</div>
 
       <h3>Meine Meinung</h3>
       <p class="review">${esc(m.review)}</p>
+
+      <h3>Bewertung im Detail</h3>
+      ${bars(m)}
 
       <h3>Worum es geht</h3>
       <p class="logline">${esc(m.logline)}</p>
