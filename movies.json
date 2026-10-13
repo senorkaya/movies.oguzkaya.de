@@ -1,0 +1,26 @@
+[
+  {
+    "title": "I Am Mother",
+    "year": 2019,
+    "director": "Grant Sputore",
+    "poster": "posters/i-am-mother.png",
+    "rating": 10,
+    "review": ""
+  },
+  {
+    "title": "Bugonia",
+    "year": 2025,
+    "director": "Yorgos Lanthimos",
+    "poster": "posters/bugonia.jpg",
+    "rating": 10,
+    "review": ""
+  },
+  {
+    "title": "The Invisible Guest",
+    "year": 2016,
+    "director": "Oriol Paulo",
+    "poster": "posters/the-invisible-guest.jpg",
+    "rating": 8,
+    "review": ""
+  }
+]
