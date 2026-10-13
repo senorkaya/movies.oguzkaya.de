@@ -1,26 +1,55 @@
 [
   {
-    "title": "I Am Mother",
-    "year": 2019,
-    "director": "Grant Sputore",
-    "poster": "posters/i-am-mother.png",
-    "rating": 10,
-    "review": ""
-  },
-  {
+    "slug": "bugonia",
     "title": "Bugonia",
     "year": 2025,
     "director": "Yorgos Lanthimos",
-    "poster": "posters/bugonia.jpg",
+    "runtime": 118,
+    "genres": ["Sci-Fi", "Thriller", "Komödie"],
+    "moods": ["Mindfuck", "Schwarzhumorig", "Sci-Fi"],
     "rating": 10,
-    "review": ""
+    "added": "2026-10-13",
+    "featured": true,
+    "top": 1,
+    "poster": "/posters/bugonia.jpg",
+    "backdrop": "/backdrops/bugonia.jpg",
+    "logline": "Zwei Verschwörungstheoretiker entführen die Chefin eines Pharmakonzerns – felsenfest überzeugt, dass sie eine Außerirdische ist.",
+    "review": "",
+    "watchIf": ["Poor Things", "The Lobster", "Parasite"]
   },
   {
+    "slug": "i-am-mother",
+    "title": "I Am Mother",
+    "year": 2019,
+    "director": "Grant Sputore",
+    "runtime": 113,
+    "genres": ["Sci-Fi", "Thriller"],
+    "moods": ["Mindfuck", "Sci-Fi", "Kammerspiel"],
+    "rating": 10,
+    "added": "2026-10-13",
+    "top": 2,
+    "poster": "/posters/i-am-mother.jpg",
+    "backdrop": "/backdrops/i-am-mother.jpg",
+    "logline": "Nach dem Ende der Menschheit zieht ein Roboter in einem abgeschotteten Bunker ein Mädchen groß – bis eine Fremde vor der Tür steht.",
+    "review": "",
+    "watchIf": ["Ex Machina", "Arrival", "10 Cloverfield Lane"]
+  },
+  {
+    "slug": "the-invisible-guest",
     "title": "The Invisible Guest",
+    "aka": "Der unsichtbare Gast",
     "year": 2016,
     "director": "Oriol Paulo",
-    "poster": "posters/the-invisible-guest.jpg",
+    "runtime": 107,
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "moods": ["Plot-Twist", "Thriller", "Mindfuck"],
     "rating": 8,
-    "review": ""
+    "added": "2026-10-13",
+    "top": 3,
+    "poster": "/posters/the-invisible-guest.jpg",
+    "backdrop": "/backdrops/the-invisible-guest.jpg",
+    "logline": "Ein Geschäftsmann wacht neben seiner toten Geliebten auf und hat eine Nacht, um seiner Anwältin zu beweisen, dass er unschuldig ist.",
+    "review": "",
+    "watchIf": ["Gone Girl", "Die üblichen Verdächtigen", "Prisoners"]
   }
 ]

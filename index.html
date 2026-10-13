@@ -3,71 +3,62 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--meta:start-->
   <title>Oguz' Filmempfehlungen</title>
-  <meta name="description" content="Filme, die ich gesehen habe und euch empfehle.">
-  <style>
-    :root {
-      --bg: #0f0f12;
-      --card: #1a1a20;
-      --text: #f2f2f2;
-      --muted: #9a9aa5;
-      --accent: #f5c518;
-    }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      background: var(--bg);
-      color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      line-height: 1.5;
-    }
-    header { max-width: 1000px; margin: 0 auto; padding: 48px 16px 24px; }
-    h1 { margin: 0 0 4px; font-size: 2rem; }
-    header p { margin: 0; color: var(--muted); }
-    main {
-      max-width: 1000px;
-      margin: 0 auto;
-      padding: 0 16px 64px;
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-      gap: 24px;
-    }
-    .movie { background: var(--card); border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; }
-    .movie img { width: 100%; aspect-ratio: 2 / 3; object-fit: cover; display: block; background: #000; }
-    .body { padding: 14px 16px 18px; display: flex; flex-direction: column; gap: 6px; }
-    .title { margin: 0; font-size: 1.1rem; }
-    .meta { color: var(--muted); font-size: 0.85rem; }
-    .rating { font-weight: 700; color: var(--accent); font-size: 1.05rem; }
-    .rating span { color: var(--muted); font-weight: 400; font-size: 0.85rem; }
-    .review { margin: 4px 0 0; font-size: 0.95rem; }
-    .review.empty { color: var(--muted); font-style: italic; }
-  </style>
+  <meta name="description" content="Filme, die ich gesehen habe und euch ans Herz lege.">
+  <meta property="og:title" content="Oguz' Filmempfehlungen">
+  <meta property="og:description" content="Filme, die ich gesehen habe und euch ans Herz lege.">
+  <meta property="og:image" content="https://movies.oguzkaya.de/backdrops/bugonia.jpg">
+  <meta property="og:url" content="https://movies.oguzkaya.de/">
+  <!--meta:end-->
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#0c0b0a">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
 </head>
 <body>
-  <header>
-    <h1>🎬 Oguz' Filmempfehlungen</h1>
-    <p>Filme, die ich gesehen habe und euch ans Herz lege.</p>
-  </header>
-  <main id="movies"></main>
+  <div class="grain" aria-hidden="true"></div>
 
-  <script>
-    const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  <nav class="topbar">
+    <a href="/" class="brand">Oguz <em>schaut</em></a>
+    <span class="stats" id="stats"></span>
+  </nav>
 
-    fetch("movies.json")
-      .then(r => r.json())
-      .then(movies => {
-        movies.sort((a, b) => b.rating - a.rating);
-        document.getElementById("movies").innerHTML = movies.map(m => `
-          <article class="movie">
-            <img src="${esc(m.poster)}" alt="Poster: ${esc(m.title)}" loading="lazy">
-            <div class="body">
-              <h2 class="title">${esc(m.title)}</h2>
-              <div class="meta">${esc(m.year)} · ${esc(m.director)}</div>
-              <div class="rating">★ ${esc(m.rating)}<span>/10</span></div>
-              <p class="review ${m.review ? "" : "empty"}">${m.review ? esc(m.review) : "Review folgt …"}</p>
-            </div>
-          </article>`).join("");
-      });
-  </script>
+  <header class="hero" id="hero"></header>
+
+  <section class="section" id="top-section">
+    <h2 class="section-title">Oguz' <em>Top 4</em></h2>
+    <div class="top4" id="top4"></div>
+  </section>
+
+  <section class="section">
+    <div class="toolbar">
+      <h2 class="section-title">Alle <em>Empfehlungen</em></h2>
+      <label class="sort">
+        Sortieren
+        <select id="sort">
+          <option value="rating">Beste Bewertung</option>
+          <option value="added">Neueste</option>
+          <option value="title">A–Z</option>
+        </select>
+      </label>
+    </div>
+    <div class="chips" id="chips"></div>
+    <div class="grid" id="grid"></div>
+  </section>
+
+  <footer class="footer">Mit Liebe kuratiert von Oguz · Poster &amp; Bilder: TMDB</footer>
+
+  <div class="overlay" id="overlay" hidden>
+    <div class="overlay-backdrop" data-close></div>
+    <article class="sheet" id="sheet" role="dialog" aria-modal="true"></article>
+  </div>
+
+  <div class="toast" id="toast" hidden></div>
+
+  <script src="/app.js"></script>
 </body>
 </html>
