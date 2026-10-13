@@ -1,0 +1,4 @@
+# Kein Build-Schritt: Netlify veröffentlicht die Dateien einfach so.
+[build]
+  command = "echo kein Build noetig"
+  publish = "."
