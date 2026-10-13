@@ -13,6 +13,8 @@ Meine Filmempfehlungen für Freunde. Nur HTML, CSS und JavaScript, keine Depende
    - `noTrailer: true` blendet den Tipp „Keinen Trailer gucken“ ein
    - `highlight`: kurzer Preis-Hinweis auf der Karte (z. B. „4 Oscars“)
    - `awards`: `won` und `nominated` als Listen
+   - `favorite: true`: erscheint unter „Meine Lieblingsfilme“ (am besten 4 Filme)
+   - `lastWatched`: 1 = zuletzt gesehen, 2 = davor, … (erscheint unter „Zuletzt gesehen“)
 3. Committen und pushen.
 
 Ein Film lässt sich direkt verlinken: `movies.oguzkaya.de/#<slug>`.

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#000"/>
+  <!-- Klappe -->
+  <g transform="rotate(-14 12 24)">
+    <rect x="10" y="14" width="44" height="10" rx="2" fill="#f5c542"/>
+    <path d="M17 14h6l-5 10h-6zM29 14h6l-5 10h-6zM41 14h6l-5 10h-6z" fill="#000"/>
+  </g>
+  <!-- Körper -->
+  <rect x="10" y="28" width="44" height="24" rx="3" fill="#f5c542"/>
+  <path d="M28 34.5v11l9-5.5z" fill="#000"/>
+</svg>

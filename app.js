@@ -15,6 +15,9 @@ fetch("movies.json")
   .then(data => {
     // Beste Bewertung zuerst, bei Gleichstand die Reihenfolge aus movies.json
     movies = data.map((m, i) => ({ ...m, i })).sort((a, b) => b.rating - a.rating || a.i - b.i);
+    renderHighlights();
+    $("favorites").innerHTML = movies.filter(m => m.favorite).map(card).join("");
+    $("recent").innerHTML = movies.filter(m => m.lastWatched).sort((a, b) => a.lastWatched - b.lastWatched).map(card).join("");
     renderChips();
     renderGrid();
     openFromHash();
@@ -27,18 +30,35 @@ function renderChips() {
     .join("");
 }
 
+const card = m => `
+  <button class="card" data-open="${esc(m.slug)}">
+    <div class="poster"><img src="${esc(m.poster)}" alt="" loading="lazy"></div>
+    <div class="card-body">
+      <h3>${esc(m.title)}</h3>
+      <div class="meta">${esc(m.year)} · ${esc(m.genres[0])}</div>
+      ${score(m)}
+      ${m.highlight ? `<div class="award">${trophy}${esc(m.highlight)}</div>` : ""}
+    </div>
+  </button>`;
+
+function renderHighlights() {
+  // Jedes Highlight bekommt ein anderes Poster
+  const used = new Set();
+  const first = list => { const m = list.find(x => !used.has(x.slug)) || list[0]; used.add(m?.slug); return m?.poster; };
+  const items = [
+    ["lieblinge", "Lieblinge", first(movies.filter(m => m.favorite))],
+    ["zuletzt", "Zuletzt", first(movies.filter(m => m.lastWatched).sort((a, b) => a.lastWatched - b.lastWatched))],
+    ["alle", "Alle Filme", first([...movies].reverse())],
+  ];
+  $("highlights").innerHTML = items.map(([id, label, img]) => `
+    <a class="hl" href="#${id}" data-jump="${id}">
+      <span class="hl-ring"><img src="${esc(img)}" alt=""></span>${esc(label)}
+    </a>`).join("");
+}
+
 function renderGrid() {
   const list = movies.filter(m => mood === "Alle" || m.moods.includes(mood));
-  $("grid").innerHTML = list.map(m => `
-    <button class="card" data-open="${esc(m.slug)}">
-      <div class="poster"><img src="${esc(m.poster)}" alt="" loading="lazy"></div>
-      <div class="card-body">
-        <h2>${esc(m.title)}</h2>
-        <div class="meta">${esc(m.year)} · ${esc(m.genres[0])}</div>
-        ${score(m)}
-        ${m.highlight ? `<div class="award">${trophy}${esc(m.highlight)}</div>` : ""}
-      </div>
-    </button>`).join("") || `<p class="empty">Keine Filme in dieser Kategorie.</p>`;
+  $("grid").innerHTML = list.map(card).join("") || `<p class="empty">Keine Filme in dieser Kategorie.</p>`;
 }
 
 function renderSheet(m) {
@@ -95,13 +115,14 @@ function closeFilm() {
 
 function openFromHash() {
   const slug = location.hash.slice(1);
-  if (slug) openFilm(slug);
+  if (movies.some(m => m.slug === slug)) openFilm(slug);
   else if (!$("overlay").hidden) closeFilm();
 }
 
 document.addEventListener("click", e => {
-  const t = e.target.closest("[data-open],[data-close],[data-mood]");
+  const t = e.target.closest("[data-open],[data-close],[data-mood],[data-jump]");
   if (!t) return;
+  if (t.dataset.jump) { e.preventDefault(); $(t.dataset.jump).scrollIntoView({ behavior: "smooth" }); return; }
   if (t.dataset.open) openFilm(t.dataset.open);
   else if (t.dataset.mood) { mood = t.dataset.mood; renderChips(); renderGrid(); }
   else closeFilm();

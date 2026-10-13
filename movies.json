@@ -16,6 +16,7 @@
       "Mindfuck"
     ],
     "rating": 10,
+    "favorite": true,
     "noTrailer": true,
     "poster": "posters/bugonia.jpg",
     "backdrop": "backdrops/bugonia.jpg",
@@ -50,6 +51,7 @@
       "Mindfuck"
     ],
     "rating": 10,
+    "favorite": true,
     "poster": "posters/i-am-mother.jpg",
     "backdrop": "backdrops/i-am-mother.jpg",
     "logline": "Ein Mädchen wächst in einem abgeschotteten Bunker auf, großgezogen von einem Roboter, der die Menschheit neu aufbauen soll.",
@@ -78,6 +80,8 @@
       "Spannung"
     ],
     "rating": 8,
+    "favorite": true,
+    "lastWatched": 1,
     "poster": "posters/the-invisible-guest.jpg",
     "backdrop": "backdrops/the-invisible-guest.jpg",
     "logline": "Ein erfolgreicher Geschäftsmann steht unter Mordverdacht und hat eine Nacht, um mit seiner Anwältin seine Verteidigung vorzubereiten.",
@@ -107,6 +111,8 @@
       "Spannung"
     ],
     "rating": 8,
+    "favorite": true,
+    "lastWatched": 3,
     "noTrailer": true,
     "poster": "posters/die-taschendiebin.jpg",
     "backdrop": "backdrops/die-taschendiebin.jpg",
@@ -260,6 +266,7 @@
       "Sci-Fi"
     ],
     "rating": 7,
+    "lastWatched": 2,
     "poster": "posters/prospect.jpg",
     "backdrop": "backdrops/prospect.jpg",
     "logline": "Ein Teenager und ihr Vater landen auf einem fremden Waldmond, um dort wertvolle Edelsteine zu schürfen.",
