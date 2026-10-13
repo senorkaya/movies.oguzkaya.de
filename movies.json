@@ -22,7 +22,6 @@
       "schauspiel": 5,
       "look": 5
     },
-    "favorite": true,
     "noTrailer": true,
     "poster": "posters/bugonia.jpg",
     "backdrop": "backdrops/bugonia.jpg",
@@ -63,7 +62,6 @@
       "schauspiel": 5,
       "look": 5
     },
-    "favorite": true,
     "poster": "posters/i-am-mother.jpg",
     "backdrop": "backdrops/i-am-mother.jpg",
     "logline": "Ein Mädchen wächst in einem abgeschotteten Bunker auf, großgezogen von einem Roboter, der die Menschheit neu aufbauen soll.",
@@ -98,7 +96,6 @@
       "schauspiel": 4,
       "look": 2.5
     },
-    "favorite": true,
     "lastWatched": 2,
     "poster": "posters/the-invisible-guest.jpg",
     "backdrop": "backdrops/the-invisible-guest.jpg",
@@ -135,7 +132,6 @@
       "schauspiel": 4,
       "look": 3
     },
-    "favorite": true,
     "lastWatched": 4,
     "noTrailer": true,
     "poster": "posters/die-taschendiebin.jpg",

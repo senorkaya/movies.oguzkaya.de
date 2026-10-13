@@ -37,7 +37,8 @@ fetch("movies.json")
   .then(data => {
     // Beste Bewertung zuerst, bei Gleichstand die Reihenfolge aus movies.json
     movies = data.map((m, i) => ({ ...m, i })).sort((a, b) => b.rating - a.rating || a.i - b.i);
-    $("favorites").innerHTML = movies.filter(m => m.favorite).map(card).join("");
+    // Lieblingsfilme = automatisch die 4 bestbewerteten (bei Gleichstand der früher eingetragene)
+    $("favorites").innerHTML = movies.slice(0, 4).map(card).join("");
     $("recent").innerHTML = movies.filter(m => m.lastWatched).sort((a, b) => a.lastWatched - b.lastWatched).map(card).join("");
     renderChips();
     renderGrid();
