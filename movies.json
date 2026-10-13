@@ -38,6 +38,23 @@
         "BAFTA: 5 Nominierungen, u. a. Regie",
         "Filmfestspiele Venedig: Goldener Löwe"
       ]
+    },
+    "en": {
+      "title": "Bugonia",
+      "logline": "Two conspiracy theorists kidnap the CEO of a pharmaceutical company because they're convinced she's an alien.",
+      "review": "An absolute must for the tinfoil-hat crowd among us. The film keeps you on your tiptoes the whole time and the tension stays high throughout. I don't want to give away more than that so I spoil as little as possible. Whatever you do, don't watch the trailer, just jump right in.",
+      "highlight": "4 Oscar nominations",
+      "awards": {
+        "won": [
+          "European Film Award: Best Make-up"
+        ],
+        "nominated": [
+          "Oscar: Best Picture, Best Actress (Emma Stone), Adapted Screenplay, Original Score",
+          "Golden Globe: Best Musical or Comedy, Emma Stone, Jesse Plemons",
+          "BAFTA: 5 nominations, incl. Director",
+          "Venice: Golden Lion"
+        ]
+      }
     }
   },
   {
@@ -71,6 +88,17 @@
       "nominated": [
         "AACTA Award (Australien): Beste Nebendarstellerin (Hilary Swank), Beste visuelle Effekte"
       ]
+    },
+    "en": {
+      "title": "I Am Mother",
+      "logline": "A girl grows up in a sealed-off bunker, raised by a robot tasked with rebuilding humanity.",
+      "review": "By a long shot my absolute favorite AI movie. The Matrix is ultimately an AI movie too, but this one is miles better. It leaves you with the question of how we really define good AI, and you carry that around with you for a week or two afterwards. And it gets better every time: I've watched it several times and every time I notice new things. Once you know the ending, the beginning makes sense in a whole different way. An absolute must for all AI fans.",
+      "awards": {
+        "won": [],
+        "nominated": [
+          "AACTA Award (Australia): Best Supporting Actress (Hilary Swank), Best Visual Effects"
+        ]
+      }
     }
   },
   {
@@ -108,6 +136,20 @@
       "nominated": [
         "Premio Gaudí: Bester Schnitt"
       ]
+    },
+    "en": {
+      "title": "The Invisible Guest",
+      "aka": "Contratiempo",
+      "logline": "A successful businessman is suspected of murder and has one night to prepare his defense with his lawyer.",
+      "review": "A really cool movie for people who like detective films. Good build-up of tension, and above all it keeps the tension going. The film does a great job of constantly surprising you.",
+      "awards": {
+        "won": [
+          "Portland International Film Festival: Audience Award"
+        ],
+        "nominated": [
+          "Gaudí Award: Best Editing"
+        ]
+      }
     }
   },
   {
@@ -150,6 +192,25 @@
         "Cannes: Goldene Palme",
         "Critics' Choice: Bester fremdsprachiger Film"
       ]
+    },
+    "en": {
+      "title": "The Handmaiden",
+      "aka": "Die Taschendiebin",
+      "logline": "Korea in the 1930s: a young pickpocket is planted as a maid in the household of a wealthy Japanese heiress.",
+      "review": "Another seriously awesome movie for people who are into plot twists. You can never predict what's going to happen next. Same rule here: definitely don't watch the trailer, just jump straight into the movie.",
+      "highlight": "BAFTA winner",
+      "awards": {
+        "won": [
+          "BAFTA: Best Film Not in the English Language",
+          "Cannes: Vulcan Award for Production Design",
+          "Blue Dragon Film Awards: 3 awards, incl. Best Actress",
+          "Baeksang Arts Awards: Grand Prize"
+        ],
+        "nominated": [
+          "Cannes: Palme d'Or",
+          "Critics' Choice: Best Foreign Language Film"
+        ]
+      }
     }
   },
   {
@@ -187,6 +248,21 @@
         "Critics' Choice: Bester Sci-Fi/Horror-Film",
         "DGA Award: Bestes Regiedebüt"
       ]
+    },
+    "en": {
+      "title": "10 Cloverfield Lane",
+      "logline": "After a car crash, a young woman wakes up in a bunker. The man holding her there says he saved her life.",
+      "review": "Another very cool movie for the tinfoil-hat crowd and conspiracy theory fanatics. Can only recommend it, it was fun to watch.",
+      "highlight": "3 Saturn Awards",
+      "awards": {
+        "won": [
+          "Saturn Awards: Best Thriller, Best Actress, Best Supporting Actor (John Goodman)"
+        ],
+        "nominated": [
+          "Critics' Choice: Best Sci-Fi/Horror Movie",
+          "DGA Award: Outstanding First-Time Feature Director"
+        ]
+      }
     }
   },
   {
@@ -225,6 +301,23 @@
       "nominated": [
         "Oscar: 9 Nominierungen insgesamt, u. a. Bester Film und Beste Regie"
       ]
+    },
+    "en": {
+      "title": "The Grand Budapest Hotel",
+      "logline": "In the 1930s, a legendary hotel concierge and his young lobby boy get caught up in a wild chase over a priceless painting.",
+      "review": "Doesn't get many points from me for the story, it's fairly predictable and not all that special. But the film didn't win its Oscars for production design, costumes and so on for nothing: a real feast for the eyes with insanely beautiful aesthetics. It was just really fun to watch.",
+      "highlight": "4 Oscars",
+      "awards": {
+        "won": [
+          "Oscar: Production Design, Costume Design, Makeup, Original Score",
+          "Golden Globe: Best Musical or Comedy",
+          "BAFTA: 5 awards, incl. Best Original Screenplay",
+          "Berlinale: Silver Bear (Grand Jury Prize)"
+        ],
+        "nominated": [
+          "Oscar: 9 nominations in total, incl. Best Picture and Best Director"
+        ]
+      }
     }
   },
   {
@@ -262,6 +355,23 @@
       "nominated": [
         "Golden Globe: 5 Nominierungen, u. a. Beste Komödie"
       ]
+    },
+    "en": {
+      "title": "Anora",
+      "logline": "A stripper from Brooklyn meets the son of a Russian oligarch and impulsively marries him in Las Vegas.",
+      "review": "I thought it was pretty okay, worth a watch. Cool, interesting story with good scenes, and above all very realistic, very true to life. That's probably what got it the big awards. It was fun, but nothing super special.",
+      "highlight": "5 Oscars · Palme d'Or",
+      "awards": {
+        "won": [
+          "Oscar: Best Picture, Director, Actress (Mikey Madison), Original Screenplay, Editing",
+          "Cannes: Palme d'Or",
+          "BAFTA: Best Actress, Casting",
+          "Critics' Choice: Best Picture"
+        ],
+        "nominated": [
+          "Golden Globe: 5 nominations, incl. Best Musical or Comedy"
+        ]
+      }
     }
   },
   {
@@ -294,6 +404,19 @@
       "nominated": [
         "Independent Spirit Awards: 4 Nominierungen, u. a. Keke Palmer und SZA"
       ]
+    },
+    "en": {
+      "title": "One of Them Days",
+      "logline": "Two best friends have one day to scrape together their rent, or they get kicked out of their apartment.",
+      "review": "Funny movie, definitely worth a watch. The story is a bit predictable, but overall the movie is genuinely funny. Perfect for putting on in the background and chilling, you don't have to think much.",
+      "awards": {
+        "won": [
+          "Black Reel Award: Outstanding First Screenplay"
+        ],
+        "nominated": [
+          "Independent Spirit Awards: 4 nominations, incl. Keke Palmer and SZA"
+        ]
+      }
     }
   },
   {
@@ -326,6 +449,17 @@
         "SXSW: Adam Yauch Hörnblowér Award"
       ],
       "nominated": []
+    },
+    "en": {
+      "title": "Prospect",
+      "logline": "A teenage girl and her father land on an alien forest moon to mine valuable gems.",
+      "review": "Really strange movie: the world it builds is insanely interesting, but the film leaves you with tons of open questions. That's exactly why it's stuck with me so much. You really want to find out way more about this world, but the questions just never get answered. I'd love to see it as a series.",
+      "awards": {
+        "won": [
+          "SXSW: Adam Yauch Hörnblowér Award"
+        ],
+        "nominated": []
+      }
     }
   },
   {
@@ -368,6 +502,25 @@
         "BAFTA: Visuelle Effekte",
         "Saturn Award: Regie, Hauptdarsteller (Clive Owen)"
       ]
+    },
+    "en": {
+      "title": "Children of Men",
+      "logline": "England, 2027: no child has been born anywhere in the world for 18 years when disillusioned former activist Theo is tasked with getting a young woman safely through the crumbling, sealed-off country.",
+      "review": "Very strong classic!",
+      "highlight": "2 BAFTAs",
+      "awards": {
+        "won": [
+          "BAFTA: Cinematography, Production Design",
+          "Saturn Award: Best Science Fiction Film",
+          "Venice: Golden Osella for Cinematography (Emmanuel Lubezki)"
+        ],
+        "nominated": [
+          "Oscar: Adapted Screenplay, Cinematography, Editing",
+          "Venice: Golden Lion (Competition)",
+          "BAFTA: Visual Effects",
+          "Saturn Award: Director, Actor (Clive Owen)"
+        ]
+      }
     }
   },
   {
@@ -405,6 +558,23 @@
       "nominated": [
         "Deutscher Filmpreis: Schnitt, Tongestaltung"
       ]
+    },
+    "en": {
+      "title": "Citizenfour",
+      "logline": "In 2013, filmmaker Laura Poitras receives encrypted messages from an anonymous source and meets him with two journalists in a Hong Kong hotel room: Edward Snowden, who wants to expose the NSA's mass surveillance.",
+      "review": "Absolute must-see for the tinfoil-hat crowd! I didn't rate acting and look & sound here because it's a documentary.",
+      "highlight": "Oscar winner",
+      "awards": {
+        "won": [
+          "Oscar: Best Documentary Feature",
+          "BAFTA: Best Documentary",
+          "Independent Spirit Award: Best Documentary",
+          "German Film Award: Best Documentary"
+        ],
+        "nominated": [
+          "German Film Award: Editing, Sound Design"
+        ]
+      }
     }
   },
   {
@@ -444,7 +614,24 @@
         "Saturn Award: Bester Science-Fiction-Film, Hauptdarsteller (Sam Rockwell)"
       ]
     },
-    "lastWatched": 1
+    "lastWatched": 1,
+    "en": {
+      "title": "Moon",
+      "logline": "Astronaut Sam Bell is the only person mining helium-3 on a station on the far side of the moon. Just two weeks before the end of his three-year stint, strange things start to happen.",
+      "review": "Solid story and not very predictable. Could be a bit more suspenseful and have more depth, but definitely recommended!",
+      "highlight": "BAFTA winner",
+      "awards": {
+        "won": [
+          "BAFTA: Outstanding Debut (Duncan Jones)",
+          "British Independent Film Award: Best British Independent Film",
+          "Hugo Award: Best Dramatic Presentation"
+        ],
+        "nominated": [
+          "BAFTA: Outstanding British Film",
+          "Saturn Award: Best Science Fiction Film, Actor (Sam Rockwell)"
+        ]
+      }
+    }
   },
   {
     "slug": "good-luck-have-fun-dont-die",
@@ -476,6 +663,15 @@
     "awards": {
       "won": [],
       "nominated": []
+    },
+    "en": {
+      "title": "Good Luck, Have Fun, Don't Die",
+      "logline": "A disheveled man storms into a Los Angeles diner, claims to come from a future destroyed by a rogue AI, and tries to recruit the patrons for a mission to save humanity.",
+      "review": "Had a blast watching it. Absolutely wild storyline, a good mindfuck movie with an exciting story.",
+      "awards": {
+        "won": [],
+        "nominated": []
+      }
     }
   },
   {
@@ -517,6 +713,26 @@
         "Golden Globe: Bester Film Komödie/Musical, Regie, Nebendarstellerin (Margaret Qualley), Drehbuch",
         "César: Bester ausländischer Film"
       ]
+    },
+    "en": {
+      "title": "The Substance",
+      "logline": "Aging fitness TV icon Elisabeth Sparkle gets fired on her 50th birthday and turns to a mysterious black-market drug that promises a younger, perfect version of herself.",
+      "review": "Found it super boring, I turned it off after 15 minutes.",
+      "highlight": "Oscar winner",
+      "awards": {
+        "won": [
+          "Oscar: Makeup and Hairstyling",
+          "Cannes: Best Screenplay",
+          "Golden Globe: Best Actress in a Musical or Comedy (Demi Moore)",
+          "BAFTA: Makeup and Hair"
+        ],
+        "nominated": [
+          "Oscar: Best Picture, Director, Actress (Demi Moore), Original Screenplay",
+          "Cannes: Palme d'Or",
+          "Golden Globe: Best Musical or Comedy, Director, Supporting Actress (Margaret Qualley), Screenplay",
+          "César: Best Foreign Film"
+        ]
+      }
     }
   },
   {
@@ -556,6 +772,23 @@
         "Oscar: Nebendarsteller (Brad Pitt), Kostümdesign",
         "Berlinale: Wettbewerb um den Goldenen Bären"
       ]
+    },
+    "en": {
+      "title": "12 Monkeys",
+      "aka": "Twelve Monkeys",
+      "logline": "In 2035, what's left of humanity lives underground after a deadly viral epidemic, when prisoner James Cole is sent into the past to track down the origin of the plague.",
+      "review": "Old movie, cool for something in between.",
+      "highlight": "Golden Globe",
+      "awards": {
+        "won": [
+          "Golden Globe: Best Supporting Actor (Brad Pitt)",
+          "Saturn Award: Best Science Fiction Film, Supporting Actor (Brad Pitt), Costumes"
+        ],
+        "nominated": [
+          "Oscar: Supporting Actor (Brad Pitt), Costume Design",
+          "Berlinale: Competition for the Golden Bear"
+        ]
+      }
     }
   },
   {
@@ -597,6 +830,23 @@
         "Golden Globe: Bester Filmsong – „Safe & Sound“ (The Hunger Games), „Atlas“ (Catching Fire), „Yellow Flicker Beat“ (Mockingjay Teil 1)",
         "Saturn Award: Bester Science-Fiction-Film (Teil 1–3)"
       ]
+    },
+    "en": {
+      "title": "The Hunger Games",
+      "aka": "Die Tribute von Panem",
+      "logline": "In the totalitarian state of Panem, teenagers from the twelve districts are forced each year to fight to the death in a live-broadcast arena. 16-year-old Katniss Everdeen volunteers to save her little sister.",
+      "review": "Just an awesome story, good acting and great production design, costume design and styling. Crazy fun to watch.",
+      "awards": {
+        "won": [
+          "Grammy: Best Song Written for Visual Media – “Safe & Sound” (The Hunger Games)",
+          "Saturn Award: Best Actress – Jennifer Lawrence (The Hunger Games); Costumes (Catching Fire)",
+          "Critics' Choice: Best Actress in an Action Movie – Jennifer Lawrence (The Hunger Games)"
+        ],
+        "nominated": [
+          "Golden Globe: Best Original Song – “Safe & Sound” (The Hunger Games), “Atlas” (Catching Fire), “Yellow Flicker Beat” (Mockingjay – Part 1)",
+          "Saturn Award: Best Science Fiction Film (Parts 1–3)"
+        ]
+      }
     }
   },
   {
@@ -631,6 +881,18 @@
         "Golden Globe: Beste Filmmusik (Jocelyn Pook)",
         "César: Bester ausländischer Film"
       ]
+    },
+    "en": {
+      "title": "Eyes Wide Shut",
+      "logline": "After a casual confession from his wife, wealthy New York doctor Bill Harford is drawn into a long night that leads him ever deeper into a mysterious erotic underworld.",
+      "review": "Absolute classic. If you can, watch the original version with the extra scenes.",
+      "awards": {
+        "won": [],
+        "nominated": [
+          "Golden Globe: Best Original Score (Jocelyn Pook)",
+          "César: Best Foreign Film"
+        ]
+      }
     }
   },
   {
@@ -661,6 +923,15 @@
     "awards": {
       "won": [],
       "nominated": []
+    },
+    "en": {
+      "title": "Idiocracy",
+      "logline": "Perfectly average Army librarian Joe Bauers gets forgotten in a secret cryosleep experiment and wakes up 500 years later in an America where he's suddenly the smartest person alive.",
+      "review": "Has never been more relevant than now. Very good movie that shows in a funny way where we might be headed.",
+      "awards": {
+        "won": [],
+        "nominated": []
+      }
     }
   },
   {
@@ -702,6 +973,25 @@
         "Golden Globe: Bester Film Drama, Regie",
         "BAFTA: Bester Film, Regie, Adaptiertes Drehbuch"
       ]
+    },
+    "en": {
+      "title": "Joker",
+      "logline": "Gotham City, 1981: mentally fragile party clown Arthur Fleck cares for his sick mother and dreams of a career as a stand-up comedian while the city around him grows ever more brutal.",
+      "review": "Absolute classic. After Heath Ledger, the second-best Joker ever played.",
+      "highlight": "2 Oscars",
+      "awards": {
+        "won": [
+          "Oscar: Best Actor (Joaquin Phoenix), Original Score (Hildur Guðnadóttir)",
+          "Venice: Golden Lion",
+          "Golden Globe: Best Actor in a Drama (Joaquin Phoenix), Original Score",
+          "BAFTA: Best Actor, Original Score, Casting"
+        ],
+        "nominated": [
+          "Oscar: 11 nominations in total, incl. Best Picture, Director, Adapted Screenplay, Cinematography",
+          "Golden Globe: Best Drama, Director",
+          "BAFTA: Best Film, Director, Adapted Screenplay"
+        ]
+      }
     }
   },
   {
@@ -743,6 +1033,24 @@
         "BAFTA: Kamera, Schnitt, Szenenbild (Matrix)",
         "Saturn Award: Bester Science-Fiction-Film (Matrix Revolutions)"
       ]
+    },
+    "en": {
+      "title": "The Matrix Trilogy",
+      "aka": "The Matrix / Reloaded / Revolutions",
+      "logline": "Programmer by day, hacker by night: Neo is contacted by the enigmatic Trinity and the wanted man Morpheus, who promise him an answer to the question that won't let him go: what is the Matrix?",
+      "review": "Classic and a must-watch if you're into AI.",
+      "highlight": "4 Oscars",
+      "awards": {
+        "won": [
+          "Oscar: Editing, Sound, Sound Effects Editing, Visual Effects (The Matrix)",
+          "BAFTA: Visual Effects, Sound (The Matrix)",
+          "Saturn Award: Best Science Fiction Film, Director (The Matrix)"
+        ],
+        "nominated": [
+          "BAFTA: Cinematography, Editing, Production Design (The Matrix)",
+          "Saturn Award: Best Science Fiction Film (The Matrix Revolutions)"
+        ]
+      }
     }
   },
   {
@@ -778,6 +1086,18 @@
       "nominated": [
         "Saturn Award: Bester Science-Fiction-Film"
       ]
+    },
+    "en": {
+      "title": "Limitless",
+      "aka": "Ohne Limit",
+      "logline": "Broke New York writer Eddie Morra gets hold of an experimental pill that suddenly lets him use his full mental potential.",
+      "review": "Classic with just an awesome premise. If you liked “Lucy”, you'll love this one.",
+      "awards": {
+        "won": [],
+        "nominated": [
+          "Saturn Award: Best Science Fiction Film"
+        ]
+      }
     }
   },
   {
@@ -816,6 +1136,22 @@
         "Gotham Award: Hauptdarsteller (LaKeith Stanfield), Durchbruch-Regie",
         "DGA Award: Bestes Regiedebüt"
       ]
+    },
+    "en": {
+      "title": "Sorry to Bother You",
+      "logline": "Broke Oaklander Cassius Green takes a job at a call center and discovers that with his “white voice” he can suddenly sell anything.",
+      "review": "I waited forever to watch this movie because it wasn't available in Germany, so I probably had my expectations too high. A solid film with a lot of Black cultural influence and very entertaining to watch. Not a crazy story, but good acting and awesome styling!",
+      "highlight": "Spirit Award winner",
+      "awards": {
+        "won": [
+          "Independent Spirit Award: Best First Feature"
+        ],
+        "nominated": [
+          "Independent Spirit Award: Best Screenplay",
+          "Gotham Award: Best Actor (LaKeith Stanfield), Breakthrough Director",
+          "DGA Award: Outstanding First-Time Feature Director"
+        ]
+      }
     }
   },
   {
@@ -859,6 +1195,26 @@
         "Golden Globe: Regie, Drehbuch",
         "BAFTA: Bester Film, Regie"
       ]
+    },
+    "en": {
+      "title": "Parasite",
+      "aka": "Gisaengchung",
+      "logline": "The unemployed Kim family lives in a basement apartment in Seoul until the son lands a job as a tutor for the super-rich Park family.",
+      "review": "Must-watch, awesome Asian cinema!",
+      "highlight": "4 Oscars",
+      "awards": {
+        "won": [
+          "Oscar: Best Picture, Director, Original Screenplay, International Feature",
+          "Cannes: Palme d'Or",
+          "Golden Globe: Best Foreign Language Film",
+          "BAFTA: Original Screenplay, Film Not in the English Language"
+        ],
+        "nominated": [
+          "Oscar: Editing, Production Design",
+          "Golden Globe: Director, Screenplay",
+          "BAFTA: Best Film, Director"
+        ]
+      }
     }
   },
   {
@@ -888,6 +1244,15 @@
     "awards": {
       "won": [],
       "nominated": []
+    },
+    "en": {
+      "title": "Road House",
+      "logline": "Former UFC fighter Elwood Dalton takes a job as a bouncer at a beach bar in the Florida Keys that's being terrorized by a brutal gang.",
+      "review": "Cool fight movie. Nothing special story-wise, but cool to watch without having to think much.",
+      "awards": {
+        "won": [],
+        "nominated": []
+      }
     }
   },
   {
@@ -927,6 +1292,23 @@
         "Critics' Choice: Visuelle Effekte",
         "Saturn Award: Regie, Musik, Spezialeffekte"
       ]
+    },
+    "en": {
+      "title": "Ready Player One",
+      "logline": "In 2045, humanity escapes into the virtual world of the OASIS, whose late creator hid an Easter egg inside it that promises the finder his fortune and control of the OASIS. Teenager Wade Watts sets out to find it.",
+      "review": "If you haven't read the book: really fun to watch! If you have, sadly a total letdown. My rating is from the point of view of someone who doesn't know the book.",
+      "highlight": "Oscar nomination",
+      "awards": {
+        "won": [
+          "Saturn Award: Best Science Fiction Film"
+        ],
+        "nominated": [
+          "Oscar: Visual Effects",
+          "BAFTA: Visual Effects",
+          "Critics' Choice: Visual Effects",
+          "Saturn Award: Director, Music, Special Effects"
+        ]
+      }
     }
   },
   {
@@ -964,6 +1346,21 @@
         "DGA Award: Bestes Regiedebüt",
         "Saturn Award: Bester Thriller"
       ]
+    },
+    "en": {
+      "title": "Wind River",
+      "logline": "A wildlife tracker finds the body of a young woman on the snowbound Wind River Indian Reservation in Wyoming and helps an inexperienced FBI agent with the investigation.",
+      "review": "Good story, keeps you on edge most of the time.",
+      "highlight": "Cannes directing prize",
+      "awards": {
+        "won": [
+          "Cannes: Un Certain Regard Directing Prize (Taylor Sheridan)"
+        ],
+        "nominated": [
+          "DGA Award: Outstanding First-Time Feature Director",
+          "Saturn Award: Best Thriller"
+        ]
+      }
     }
   },
   {
@@ -1006,6 +1403,26 @@
         "Golden Globe: Bester Film Drama, Regie",
         "BAFTA: Bester Film, Adaptiertes Drehbuch, Nebendarstellerin (Kelly Macdonald)"
       ]
+    },
+    "en": {
+      "title": "No Country for Old Men",
+      "logline": "West Texas, 1980: a hunter stumbles upon the aftermath of a drug deal gone wrong in the desert and takes a case holding two million dollars, putting an ice-cold killer on his trail.",
+      "review": "Just a great movie with a super weird ending … no further comment.",
+      "highlight": "4 Oscars",
+      "awards": {
+        "won": [
+          "Oscar: Best Picture, Director, Supporting Actor (Javier Bardem), Adapted Screenplay",
+          "Golden Globe: Supporting Actor (Javier Bardem), Screenplay",
+          "BAFTA: Director, Cinematography, Supporting Actor (Javier Bardem)",
+          "SAG Award: Outstanding Ensemble, Supporting Actor (Javier Bardem)"
+        ],
+        "nominated": [
+          "Oscar: Cinematography, Editing, Sound Editing, Sound Mixing",
+          "Cannes: Palme d'Or",
+          "Golden Globe: Best Drama, Director",
+          "BAFTA: Best Film, Adapted Screenplay, Supporting Actress (Kelly Macdonald)"
+        ]
+      }
     }
   },
   {
@@ -1046,6 +1463,24 @@
         "Golden Globe: Bester Film Komödie/Musical, Drehbuch",
         "SAG/Actor Award: Ensemble, Hauptdarsteller, Nebendarstellerin"
       ]
+    },
+    "en": {
+      "title": "Marty Supreme",
+      "logline": "New York, 1952: brash shoe salesman and table-tennis hustler Marty Mauser will do whatever it takes to become world champion.",
+      "review": "Good acting, awesome costume and production design. Unfortunately the story is very predictable, a classic hero's journey, so story-wise it's pretty boring.",
+      "highlight": "9 Oscar nominations",
+      "awards": {
+        "won": [
+          "Golden Globe: Best Actor in a Musical or Comedy (Timothée Chalamet)",
+          "Critics' Choice: Best Actor (Timothée Chalamet)"
+        ],
+        "nominated": [
+          "Oscar 2026: Best Picture, Director, Actor, Original Screenplay, Casting, Cinematography, Production Design, Editing, Costume Design",
+          "BAFTA 2026: incl. Best Film, Director, Actor, Supporting Actress (Odessa A'zion)",
+          "Golden Globe: Best Musical or Comedy, Screenplay",
+          "SAG/Actor Award: Ensemble, Actor, Supporting Actress"
+        ]
+      }
     }
   },
   {
@@ -1078,6 +1513,18 @@
         "Critics' Choice Super Award: Bester Science-Fiction/Fantasy-Film, Bester Darsteller Sci-Fi/Fantasy (Ryan Gosling)"
       ],
       "nominated": []
+    },
+    "en": {
+      "title": "Project Hail Mary",
+      "aka": "Der Astronaut – Project Hail Mary",
+      "logline": "Teacher and former molecular biologist Ryland Grace wakes up with no memory aboard a spaceship light-years from Earth and has to figure out who he is and why he's there.",
+      "review": "Found the story very predictable, a classic hero's journey, which I'm not a big fan of. I haven't read the book, maybe that would change my rating.",
+      "awards": {
+        "won": [
+          "Critics' Choice Super Award: Best Science Fiction/Fantasy Movie, Best Actor in a Sci-Fi/Fantasy Movie (Ryan Gosling)"
+        ],
+        "nominated": []
+      }
     }
   }
 ]
