@@ -99,7 +99,7 @@
       "look": 2.5
     },
     "favorite": true,
-    "lastWatched": 1,
+    "lastWatched": 2,
     "poster": "posters/the-invisible-guest.jpg",
     "backdrop": "backdrops/the-invisible-guest.jpg",
     "logline": "Ein erfolgreicher Geschäftsmann steht unter Mordverdacht und hat eine Nacht, um mit seiner Anwältin seine Verteidigung vorzubereiten.",
@@ -136,7 +136,7 @@
       "look": 3
     },
     "favorite": true,
-    "lastWatched": 3,
+    "lastWatched": 4,
     "noTrailer": true,
     "poster": "posters/die-taschendiebin.jpg",
     "backdrop": "backdrops/die-taschendiebin.jpg",
@@ -320,7 +320,7 @@
       "schauspiel": 5,
       "look": 5
     },
-    "lastWatched": 2,
+    "lastWatched": 3,
     "poster": "posters/prospect.jpg",
     "backdrop": "backdrops/prospect.jpg",
     "logline": "Ein Teenager und ihr Vater landen auf einem fremden Waldmond, um dort wertvolle Edelsteine zu schürfen.",
@@ -328,6 +328,758 @@
     "awards": {
       "won": [
         "SXSW: Adam Yauch Hörnblowér Award"
+      ],
+      "nominated": []
+    }
+  },
+  {
+    "slug": "children-of-men",
+    "title": "Children of Men",
+    "year": 2006,
+    "director": "Alfonso Cuarón",
+    "runtime": 109,
+    "genres": [
+      "Science-Fiction",
+      "Thriller",
+      "Drama"
+    ],
+    "moods": [
+      "Klassiker",
+      "Sci-Fi",
+      "Spannung"
+    ],
+    "rating": 4.0,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 4,
+      "schauspiel": 4,
+      "look": 4
+    },
+    "poster": "posters/children-of-men.jpg",
+    "backdrop": "backdrops/children-of-men.jpg",
+    "logline": "England 2027: Seit 18 Jahren wurde weltweit kein Kind mehr geboren, als der desillusionierte Ex-Aktivist Theo den Auftrag bekommt, eine junge Frau sicher durch das zerfallende, abgeschottete Land zu bringen.",
+    "review": "Sehr starker Klassiker!",
+    "highlight": "2 BAFTAs",
+    "awards": {
+      "won": [
+        "BAFTA: Kamera, Szenenbild",
+        "Saturn Award: Bester Science-Fiction-Film",
+        "Venedig: Goldene Osella für die Kamera (Emmanuel Lubezki)"
+      ],
+      "nominated": [
+        "Oscar: Adaptiertes Drehbuch, Kamera, Schnitt",
+        "Venedig: Goldener Löwe (Wettbewerb)",
+        "BAFTA: Visuelle Effekte",
+        "Saturn Award: Regie, Hauptdarsteller (Clive Owen)"
+      ]
+    }
+  },
+  {
+    "slug": "citizenfour",
+    "title": "Citizenfour",
+    "year": 2014,
+    "director": "Laura Poitras",
+    "runtime": 113,
+    "genres": [
+      "Dokumentarfilm"
+    ],
+    "moods": [
+      "Aluhut",
+      "Doku"
+    ],
+    "rating": 4.5,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 5,
+      "schauspiel": null,
+      "look": null
+    },
+    "poster": "posters/citizenfour.jpg",
+    "backdrop": "backdrops/citizenfour.jpg",
+    "logline": "Die Filmemacherin Laura Poitras erhält 2013 verschlüsselte Nachrichten eines anonymen Informanten und trifft ihn mit zwei Journalisten in einem Hotelzimmer in Hongkong: Edward Snowden, der die Massenüberwachung der NSA offenlegen will.",
+    "review": "Für Aluhut-Träger absolutes Pflichtprogramm! Schauspiel und Look & Sound habe ich hier nicht gewertet, weil es eine Dokumentation ist.",
+    "highlight": "Oscar-Gewinner",
+    "awards": {
+      "won": [
+        "Oscar: Bester Dokumentarfilm",
+        "BAFTA: Bester Dokumentarfilm",
+        "Independent Spirit Award: Bester Dokumentarfilm",
+        "Deutscher Filmpreis: Bester Dokumentarfilm"
+      ],
+      "nominated": [
+        "Deutscher Filmpreis: Schnitt, Tongestaltung"
+      ]
+    }
+  },
+  {
+    "slug": "moon",
+    "title": "Moon",
+    "year": 2009,
+    "director": "Duncan Jones",
+    "runtime": 97,
+    "genres": [
+      "Science-Fiction",
+      "Drama"
+    ],
+    "moods": [
+      "Sci-Fi",
+      "Mindfuck"
+    ],
+    "rating": 3.8,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 3.5,
+      "schauspiel": 3.5,
+      "look": 4
+    },
+    "poster": "posters/moon.jpg",
+    "backdrop": "backdrops/moon.jpg",
+    "logline": "Astronaut Sam Bell baut als einziger Mensch auf einer Station auf der Rückseite des Mondes Helium-3 ab – nur zwei Wochen vor dem Ende seines dreijährigen Einsatzes beginnen seltsame Dinge zu passieren.",
+    "review": "Solide Story und wenig vorhersehbar. Könnte etwas spannender sein und mehr Tiefe haben, aber auf jeden Fall zu empfehlen!",
+    "highlight": "BAFTA-Gewinner",
+    "awards": {
+      "won": [
+        "BAFTA: Herausragendes Debüt (Duncan Jones)",
+        "British Independent Film Award: Bester britischer Independent-Film",
+        "Hugo Award: Beste dramatische Präsentation"
+      ],
+      "nominated": [
+        "BAFTA: Bester britischer Film",
+        "Saturn Award: Bester Science-Fiction-Film, Hauptdarsteller (Sam Rockwell)"
+      ]
+    },
+    "lastWatched": 1
+  },
+  {
+    "slug": "good-luck-have-fun-dont-die",
+    "title": "Good Luck, Have Fun, Don't Die",
+    "year": 2026,
+    "director": "Gore Verbinski",
+    "runtime": 134,
+    "genres": [
+      "Science-Fiction",
+      "Action",
+      "Komödie"
+    ],
+    "moods": [
+      "Mindfuck",
+      "KI",
+      "Sci-Fi"
+    ],
+    "rating": 4.8,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 4,
+      "schauspiel": 5,
+      "look": 5
+    },
+    "poster": "posters/good-luck-have-fun-dont-die.jpg",
+    "backdrop": "backdrops/good-luck-have-fun-dont-die.jpg",
+    "logline": "Ein abgerissener Mann stürmt in ein Diner in Los Angeles, behauptet, aus einer von einer abtrünnigen KI zerstörten Zukunft zu kommen, und versucht, die Gäste für eine Mission zur Rettung der Menschheit anzuwerben.",
+    "review": "Hat super Spaß gemacht zu gucken. Absolut wilde Storyline – ein guter Mindfuck-Film mit spannender Story.",
+    "awards": {
+      "won": [],
+      "nominated": []
+    }
+  },
+  {
+    "slug": "the-substance",
+    "title": "The Substance",
+    "year": 2024,
+    "director": "Coralie Fargeat",
+    "runtime": 141,
+    "genres": [
+      "Horror",
+      "Science-Fiction",
+      "Drama"
+    ],
+    "moods": [
+      "Horror"
+    ],
+    "rating": 1.0,
+    "scores": {
+      "story": 0.5,
+      "unterhaltung": 0.5,
+      "schauspiel": 1,
+      "look": 2.5
+    },
+    "poster": "posters/the-substance.jpg",
+    "backdrop": "backdrops/the-substance.jpg",
+    "logline": "Die alternde Fitness-TV-Ikone Elisabeth Sparkle wird an ihrem 50. Geburtstag gefeuert und greift zu einem mysteriösen Schwarzmarkt-Präparat, das eine jüngere, perfekte Version ihrer selbst verspricht.",
+    "review": "Fand ich super langweilig, ich hab nach 15 Minuten abgeschaltet.",
+    "highlight": "Oscar-Gewinner",
+    "awards": {
+      "won": [
+        "Oscar: Make-up & Frisuren",
+        "Cannes: Bestes Drehbuch",
+        "Golden Globe: Beste Hauptdarstellerin Komödie/Musical (Demi Moore)",
+        "BAFTA: Make-up & Frisuren"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Regie, Hauptdarstellerin (Demi Moore), Originaldrehbuch",
+        "Cannes: Goldene Palme",
+        "Golden Globe: Bester Film Komödie/Musical, Regie, Nebendarstellerin (Margaret Qualley), Drehbuch",
+        "César: Bester ausländischer Film"
+      ]
+    }
+  },
+  {
+    "slug": "12-monkeys",
+    "title": "12 Monkeys",
+    "aka": "Twelve Monkeys",
+    "year": 1995,
+    "director": "Terry Gilliam",
+    "runtime": 129,
+    "genres": [
+      "Science-Fiction",
+      "Thriller",
+      "Mystery"
+    ],
+    "moods": [
+      "Klassiker",
+      "Sci-Fi"
+    ],
+    "rating": 2.7,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 2.5,
+      "schauspiel": 3,
+      "look": 2
+    },
+    "poster": "posters/12-monkeys.jpg",
+    "backdrop": "backdrops/12-monkeys.jpg",
+    "logline": "Im Jahr 2035 lebt die dezimierte Menschheit nach einer tödlichen Virusepidemie unter der Erde, als der Häftling James Cole in die Vergangenheit geschickt wird, um den Ursprung der Seuche aufzuspüren.",
+    "review": "Alter Film, cool mal für zwischendurch.",
+    "highlight": "Golden Globe",
+    "awards": {
+      "won": [
+        "Golden Globe: Bester Nebendarsteller (Brad Pitt)",
+        "Saturn Award: Bester Science-Fiction-Film, Nebendarsteller (Brad Pitt), Kostüme"
+      ],
+      "nominated": [
+        "Oscar: Nebendarsteller (Brad Pitt), Kostümdesign",
+        "Berlinale: Wettbewerb um den Goldenen Bären"
+      ]
+    }
+  },
+  {
+    "slug": "die-tribute-von-panem",
+    "title": "Die Tribute von Panem",
+    "aka": "The Hunger Games",
+    "year": "2012–2015",
+    "director": "Gary Ross (Teil 1), Francis Lawrence (Teil 2–4)",
+    "runtime": 548,
+    "parts": 4,
+    "genres": [
+      "Science-Fiction",
+      "Abenteuer",
+      "Action"
+    ],
+    "moods": [
+      "Sci-Fi",
+      "Augenschmaus",
+      "Spannung"
+    ],
+    "rating": 4.3,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 4,
+      "schauspiel": 4.5,
+      "look": 5
+    },
+    "poster": "posters/die-tribute-von-panem.jpg",
+    "backdrop": "backdrops/die-tribute-von-panem.jpg",
+    "logline": "Im totalitären Staat Panem müssen jedes Jahr Jugendliche aus den zwölf Distrikten in einer live übertragenen Arena auf Leben und Tod gegeneinander antreten – die 16-jährige Katniss Everdeen meldet sich freiwillig, um ihre kleine Schwester zu retten.",
+    "review": "Einfach geile Story, gutes Schauspiel und starkes Szenenbild, Kostümdesign und Styling. Macht derbe Spaß zu gucken.",
+    "awards": {
+      "won": [
+        "Grammy: Bester Song für visuelle Medien – „Safe & Sound“ (The Hunger Games)",
+        "Saturn Award: Beste Hauptdarstellerin – Jennifer Lawrence (The Hunger Games); Kostüme (Catching Fire)",
+        "Critics' Choice: Beste Actionfilm-Darstellerin – Jennifer Lawrence (The Hunger Games)"
+      ],
+      "nominated": [
+        "Golden Globe: Bester Filmsong – „Safe & Sound“ (The Hunger Games), „Atlas“ (Catching Fire), „Yellow Flicker Beat“ (Mockingjay Teil 1)",
+        "Saturn Award: Bester Science-Fiction-Film (Teil 1–3)"
+      ]
+    }
+  },
+  {
+    "slug": "eyes-wide-shut",
+    "title": "Eyes Wide Shut",
+    "year": 1999,
+    "director": "Stanley Kubrick",
+    "runtime": 159,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Mystery"
+    ],
+    "moods": [
+      "Klassiker",
+      "Mindfuck"
+    ],
+    "rating": 4.7,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 4,
+      "schauspiel": 4.5,
+      "look": 5
+    },
+    "poster": "posters/eyes-wide-shut.jpg",
+    "backdrop": "backdrops/eyes-wide-shut.jpg",
+    "logline": "Nach einem beiläufigen Geständnis seiner Frau gerät der wohlhabende New Yorker Arzt Bill Harford in eine lange Nacht, die ihn immer tiefer in eine geheimnisvolle erotische Unterwelt führt.",
+    "review": "Absoluter Klassiker. Wenn möglich, guckt die Originalfassung mit den zusätzlichen Szenen.",
+    "awards": {
+      "won": [],
+      "nominated": [
+        "Golden Globe: Beste Filmmusik (Jocelyn Pook)",
+        "César: Bester ausländischer Film"
+      ]
+    }
+  },
+  {
+    "slug": "idiocracy",
+    "title": "Idiocracy",
+    "year": 2006,
+    "director": "Mike Judge",
+    "runtime": 84,
+    "genres": [
+      "Komödie",
+      "Science-Fiction"
+    ],
+    "moods": [
+      "Komödie",
+      "Aluhut"
+    ],
+    "rating": 4.1,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 4,
+      "schauspiel": 3.5,
+      "look": 3
+    },
+    "poster": "posters/idiocracy.jpg",
+    "backdrop": "backdrops/idiocracy.jpg",
+    "logline": "Der stinknormale Army-Bibliothekar Joe Bauers wird bei einem geheimen Kälteschlaf-Experiment vergessen und wacht 500 Jahre später in einem Amerika auf, in dem er plötzlich der klügste Mensch ist.",
+    "review": "War noch nie relevanter als jetzt. Sehr guter Film, der auf lustige Art und Weise zeigt, wohin wir uns bewegen könnten.",
+    "awards": {
+      "won": [],
+      "nominated": []
+    }
+  },
+  {
+    "slug": "joker",
+    "title": "Joker",
+    "year": 2019,
+    "director": "Todd Phillips",
+    "runtime": 122,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Krimi"
+    ],
+    "moods": [
+      "Klassiker",
+      "Drama"
+    ],
+    "rating": 4.8,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 4,
+      "schauspiel": 5,
+      "look": 5
+    },
+    "poster": "posters/joker.jpg",
+    "backdrop": "backdrops/joker.jpg",
+    "logline": "Gotham City, 1981: Der psychisch angeschlagene Partyclown Arthur Fleck pflegt seine kranke Mutter und träumt von einer Karriere als Stand-up-Comedian, während die Stadt um ihn herum immer weiter verroht.",
+    "review": "Absoluter Klassiker. Nach Heath Ledger der zweitbeste Joker, der je gespielt wurde.",
+    "highlight": "2 Oscars",
+    "awards": {
+      "won": [
+        "Oscar: Hauptdarsteller (Joaquin Phoenix), Filmmusik (Hildur Guðnadóttir)",
+        "Venedig: Goldener Löwe",
+        "Golden Globe: Hauptdarsteller Drama (Joaquin Phoenix), Filmmusik",
+        "BAFTA: Hauptdarsteller, Filmmusik, Casting"
+      ],
+      "nominated": [
+        "Oscar: insgesamt 11 Nominierungen, u. a. Bester Film, Regie, Adaptiertes Drehbuch, Kamera",
+        "Golden Globe: Bester Film Drama, Regie",
+        "BAFTA: Bester Film, Regie, Adaptiertes Drehbuch"
+      ]
+    }
+  },
+  {
+    "slug": "matrix-trilogie",
+    "title": "Matrix-Trilogie",
+    "aka": "The Matrix / Matrix Reloaded / Matrix Revolutions",
+    "year": "1999–2003",
+    "director": "Lana & Lilly Wachowski",
+    "runtime": 403,
+    "parts": 3,
+    "genres": [
+      "Science-Fiction",
+      "Action"
+    ],
+    "moods": [
+      "Klassiker",
+      "KI",
+      "Sci-Fi"
+    ],
+    "rating": 3.9,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 3,
+      "schauspiel": 3,
+      "look": 3.5
+    },
+    "poster": "posters/matrix-trilogie.jpg",
+    "backdrop": "backdrops/matrix-trilogie.jpg",
+    "logline": "Tagsüber Programmierer, nachts Hacker: Neo wird von der rätselhaften Trinity und dem gesuchten Morpheus kontaktiert, die ihm eine Antwort auf die Frage versprechen, die ihn nicht loslässt – was ist die Matrix?",
+    "review": "Klassiker und Must-watch, wenn KI-Interesse da ist.",
+    "highlight": "4 Oscars",
+    "awards": {
+      "won": [
+        "Oscar: Schnitt, Ton, Tonschnitt, Visuelle Effekte (Matrix)",
+        "BAFTA: Visuelle Effekte, Ton (Matrix)",
+        "Saturn Award: Bester Science-Fiction-Film, Regie (Matrix)"
+      ],
+      "nominated": [
+        "BAFTA: Kamera, Schnitt, Szenenbild (Matrix)",
+        "Saturn Award: Bester Science-Fiction-Film (Matrix Revolutions)"
+      ]
+    }
+  },
+  {
+    "slug": "ohne-limit",
+    "title": "Ohne Limit",
+    "aka": "Limitless",
+    "year": 2011,
+    "director": "Neil Burger",
+    "runtime": 105,
+    "genres": [
+      "Thriller",
+      "Science-Fiction",
+      "Mystery"
+    ],
+    "moods": [
+      "Klassiker",
+      "Sci-Fi",
+      "Spannung"
+    ],
+    "rating": 4.4,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 4,
+      "schauspiel": 4,
+      "look": 4
+    },
+    "poster": "posters/ohne-limit.jpg",
+    "backdrop": "backdrops/ohne-limit.jpg",
+    "logline": "Der abgebrannte New Yorker Schriftsteller Eddie Morra bekommt eine experimentelle Pille, mit der er plötzlich sein gesamtes geistiges Potenzial nutzen kann.",
+    "review": "Klassiker mit einer einfach geilen Grundidee. Wer „Lucy“ mochte, wird das hier lieben.",
+    "awards": {
+      "won": [],
+      "nominated": [
+        "Saturn Award: Bester Science-Fiction-Film"
+      ]
+    }
+  },
+  {
+    "slug": "sorry-to-bother-you",
+    "title": "Sorry to Bother You",
+    "year": 2018,
+    "director": "Boots Riley",
+    "runtime": 111,
+    "genres": [
+      "Komödie",
+      "Science-Fiction",
+      "Fantasy"
+    ],
+    "moods": [
+      "Komödie",
+      "Mindfuck"
+    ],
+    "rating": 3.5,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 3,
+      "schauspiel": 4,
+      "look": 4.5
+    },
+    "poster": "posters/sorry-to-bother-you.jpg",
+    "backdrop": "backdrops/sorry-to-bother-you.jpg",
+    "logline": "Der pleite Cassius Green aus Oakland heuert bei einem Callcenter an und entdeckt, dass er mit seiner „weißen Stimme“ plötzlich alles verkaufen kann.",
+    "review": "Ich habe ewig gewartet, den Film zu gucken, weil er in Deutschland nicht verfügbar war – dadurch hatte ich wohl zu hohe Erwartungen. Ein solider Film mit viel Black Cultural Influence und sehr amüsant zu gucken. Keine krasse Story, aber gutes Schauspiel und geiles Styling!",
+    "highlight": "Spirit-Award-Gewinner",
+    "awards": {
+      "won": [
+        "Independent Spirit Award: Bestes Erstlingswerk"
+      ],
+      "nominated": [
+        "Independent Spirit Award: Bestes Drehbuch",
+        "Gotham Award: Hauptdarsteller (LaKeith Stanfield), Durchbruch-Regie",
+        "DGA Award: Bestes Regiedebüt"
+      ]
+    }
+  },
+  {
+    "slug": "parasite",
+    "title": "Parasite",
+    "aka": "Gisaengchung",
+    "year": 2019,
+    "director": "Bong Joon-ho",
+    "runtime": 132,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Komödie"
+    ],
+    "moods": [
+      "Plot-Twist",
+      "Spannung",
+      "Drama"
+    ],
+    "rating": 4.6,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 4.5,
+      "schauspiel": 4,
+      "look": 4.5
+    },
+    "poster": "posters/parasite.jpg",
+    "backdrop": "backdrops/parasite.jpg",
+    "logline": "Die arbeitslose Familie Kim haust in einer Kellerwohnung in Seoul, bis der Sohn eine Stelle als Nachhilfelehrer bei der superreichen Familie Park ergattert.",
+    "review": "Must-watch, geiles asiatisches Kino!",
+    "highlight": "4 Oscars",
+    "awards": {
+      "won": [
+        "Oscar: Bester Film, Regie, Originaldrehbuch, Internationaler Film",
+        "Cannes: Goldene Palme",
+        "Golden Globe: Bester fremdsprachiger Film",
+        "BAFTA: Originaldrehbuch, Nicht-englischsprachiger Film"
+      ],
+      "nominated": [
+        "Oscar: Schnitt, Szenenbild",
+        "Golden Globe: Regie, Drehbuch",
+        "BAFTA: Bester Film, Regie"
+      ]
+    }
+  },
+  {
+    "slug": "road-house",
+    "title": "Road House",
+    "year": 2024,
+    "director": "Doug Liman",
+    "runtime": 121,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "moods": [
+      "Action"
+    ],
+    "rating": 3.0,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 3,
+      "schauspiel": 3,
+      "look": 3
+    },
+    "poster": "posters/road-house.jpg",
+    "backdrop": "backdrops/road-house.jpg",
+    "logline": "Ex-UFC-Kämpfer Elwood Dalton nimmt einen Job als Türsteher in einer Strandbar auf den Florida Keys an, die von einer brutalen Bande terrorisiert wird.",
+    "review": "Cooler Fight-Film. Keine besondere Story, aber cool anzusehen, ohne viel mitdenken zu müssen.",
+    "awards": {
+      "won": [],
+      "nominated": []
+    }
+  },
+  {
+    "slug": "ready-player-one",
+    "title": "Ready Player One",
+    "year": 2018,
+    "director": "Steven Spielberg",
+    "runtime": 140,
+    "genres": [
+      "Science-Fiction",
+      "Abenteuer",
+      "Action"
+    ],
+    "moods": [
+      "Sci-Fi",
+      "Augenschmaus"
+    ],
+    "rating": 4.0,
+    "scores": {
+      "story": 4.5,
+      "unterhaltung": 3,
+      "schauspiel": 3,
+      "look": 5
+    },
+    "poster": "posters/ready-player-one.jpg",
+    "backdrop": "backdrops/ready-player-one.jpg",
+    "logline": "2045 flüchtet die Menschheit in die virtuelle Welt OASIS, deren verstorbener Schöpfer darin ein Easter Egg versteckt hat, das dem Finder sein Vermögen und die Kontrolle über die OASIS verspricht – der Teenager Wade Watts macht sich auf die Suche.",
+    "review": "Wenn man das Buch nicht gelesen hat: richtig fun to watch! Wenn man es gelesen hat, leider eine absolute Enttäuschung. Meine Bewertung ist aus Sicht von jemandem, der das Buch nicht kennt.",
+    "highlight": "Oscar-Nominierung",
+    "awards": {
+      "won": [
+        "Saturn Award: Bester Science-Fiction-Film"
+      ],
+      "nominated": [
+        "Oscar: Visuelle Effekte",
+        "BAFTA: Visuelle Effekte",
+        "Critics' Choice: Visuelle Effekte",
+        "Saturn Award: Regie, Musik, Spezialeffekte"
+      ]
+    }
+  },
+  {
+    "slug": "wind-river",
+    "title": "Wind River",
+    "year": 2017,
+    "director": "Taylor Sheridan",
+    "runtime": 110,
+    "genres": [
+      "Thriller",
+      "Krimi",
+      "Drama"
+    ],
+    "moods": [
+      "Spannung",
+      "Drama"
+    ],
+    "rating": 3.8,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 4,
+      "schauspiel": 4,
+      "look": 3
+    },
+    "poster": "posters/wind-river.jpg",
+    "backdrop": "backdrops/wind-river.jpg",
+    "logline": "Ein Wildtierjäger findet im verschneiten Indianerreservat Wind River in Wyoming die Leiche einer jungen Frau und hilft einer unerfahrenen FBI-Agentin bei den Ermittlungen.",
+    "review": "Gute Story, hält einen größtenteils in Spannung.",
+    "highlight": "Cannes-Regiepreis",
+    "awards": {
+      "won": [
+        "Cannes: Regiepreis der Reihe Un Certain Regard (Taylor Sheridan)"
+      ],
+      "nominated": [
+        "DGA Award: Bestes Regiedebüt",
+        "Saturn Award: Bester Thriller"
+      ]
+    }
+  },
+  {
+    "slug": "no-country-for-old-men",
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "director": "Joel & Ethan Coen",
+    "runtime": 122,
+    "genres": [
+      "Thriller",
+      "Krimi",
+      "Western"
+    ],
+    "moods": [
+      "Klassiker",
+      "Spannung"
+    ],
+    "rating": 5.0,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 5,
+      "schauspiel": 5,
+      "look": 5
+    },
+    "poster": "posters/no-country-for-old-men.jpg",
+    "backdrop": "backdrops/no-country-for-old-men.jpg",
+    "logline": "Westtexas 1980: Ein Jäger stößt in der Wüste auf die Überreste eines missglückten Drogendeals und nimmt einen Koffer mit zwei Millionen Dollar an sich – und hat damit einen eiskalten Killer auf den Fersen.",
+    "review": "Einfach ein klasse Film mit einem super weirden Ende … ohne weitere Kommentare.",
+    "highlight": "4 Oscars",
+    "awards": {
+      "won": [
+        "Oscar: Bester Film, Regie, Nebendarsteller (Javier Bardem), Adaptiertes Drehbuch",
+        "Golden Globe: Nebendarsteller (Javier Bardem), Drehbuch",
+        "BAFTA: Regie, Kamera, Nebendarsteller (Javier Bardem)",
+        "SAG Award: Bestes Ensemble, Nebendarsteller (Javier Bardem)"
+      ],
+      "nominated": [
+        "Oscar: Kamera, Schnitt, Tonschnitt, Ton",
+        "Cannes: Goldene Palme",
+        "Golden Globe: Bester Film Drama, Regie",
+        "BAFTA: Bester Film, Adaptiertes Drehbuch, Nebendarstellerin (Kelly Macdonald)"
+      ]
+    }
+  },
+  {
+    "slug": "marty-supreme",
+    "title": "Marty Supreme",
+    "year": 2025,
+    "director": "Josh Safdie",
+    "runtime": 149,
+    "genres": [
+      "Drama",
+      "Komödie",
+      "Sport"
+    ],
+    "moods": [
+      "Drama",
+      "Augenschmaus"
+    ],
+    "rating": 3.4,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 3,
+      "schauspiel": 4,
+      "look": 4
+    },
+    "poster": "posters/marty-supreme.jpg",
+    "backdrop": "backdrops/marty-supreme.jpg",
+    "logline": "New York, 1952: Der großspurige Schuhverkäufer und Tischtennis-Hasardeur Marty Mauser setzt alles daran, Weltmeister zu werden.",
+    "review": "Gutes Schauspiel, geiles Kostüm- und Szenenbild. Die Story ist leider sehr vorhersehbar, eine klassische Hero's Journey – story-technisch also eher langweilig.",
+    "highlight": "9 Oscar-Nominierungen",
+    "awards": {
+      "won": [
+        "Golden Globe: Hauptdarsteller Komödie/Musical (Timothée Chalamet)",
+        "Critics' Choice: Hauptdarsteller (Timothée Chalamet)"
+      ],
+      "nominated": [
+        "Oscar 2026: Bester Film, Regie, Hauptdarsteller, Originaldrehbuch, Casting, Kamera, Szenenbild, Schnitt, Kostüme",
+        "BAFTA 2026: u. a. Bester Film, Regie, Hauptdarsteller, Nebendarstellerin (Odessa A'zion)",
+        "Golden Globe: Bester Film Komödie/Musical, Drehbuch",
+        "SAG/Actor Award: Ensemble, Hauptdarsteller, Nebendarstellerin"
+      ]
+    }
+  },
+  {
+    "slug": "project-hail-mary",
+    "title": "Der Astronaut – Project Hail Mary",
+    "aka": "Project Hail Mary",
+    "year": 2026,
+    "director": "Phil Lord & Christopher Miller",
+    "runtime": 156,
+    "genres": [
+      "Science-Fiction",
+      "Abenteuer"
+    ],
+    "moods": [
+      "Sci-Fi"
+    ],
+    "rating": 2.6,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 2,
+      "schauspiel": 2,
+      "look": 3
+    },
+    "poster": "posters/project-hail-mary.jpg",
+    "backdrop": "backdrops/project-hail-mary.jpg",
+    "logline": "Der Lehrer und Ex-Molekularbiologe Ryland Grace erwacht ohne Erinnerung an Bord eines Raumschiffs, Lichtjahre von der Erde entfernt, und muss herausfinden, wer er ist und warum er dort ist.",
+    "review": "Fand die Story sehr vorhersehbar, eine klassische Hero's Journey, was ich nicht so mag. Das Buch habe ich nicht gelesen, vielleicht würde das die Bewertung noch verändern.",
+    "awards": {
+      "won": [
+        "Critics' Choice Super Award: Bester Science-Fiction/Fantasy-Film, Bester Darsteller Sci-Fi/Fantasy (Ryan Gosling)"
       ],
       "nominated": []
     }

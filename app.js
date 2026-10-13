@@ -25,10 +25,11 @@ const bars = m => !m.scores ? "" : `
     ${CATS.map(([k, label, note]) => `
       <li>
         <span class="bar-label">${label}${note ? ` <small>${note}</small>` : ""}</span>
-        <span class="bar"><i style="width:${(m.scores[k] / 5) * 100}%"></i></span>
-        <span class="bar-val">${fmt(m.scores[k])}</span>
+        <span class="bar"><i style="width:${((m.scores[k] ?? 0) / 5) * 100}%"></i></span>
+        <span class="bar-val">${m.scores[k] == null ? "–" : fmt(m.scores[k])}</span>
       </li>`).join("")}
-  </ul>`;
+  </ul>
+  ${CATS.some(([k]) => m.scores[k] == null) ? `<p class="bars-note">Bereiche mit „–“ habe ich bei diesem Film nicht gewertet.</p>` : ""}`;
 const hours = min => `${Math.floor(min / 60)} Std. ${min % 60} Min.`;
 
 fetch("movies.json")
@@ -78,7 +79,7 @@ function renderSheet(m) {
       <h2>${esc(m.title)}</h2>
       ${m.aka ? `<div class="aka">${esc(m.aka)}</div>` : ""}
       <div class="rating">${score(m)}${verdictPill(m)}</div>
-      <div class="facts">${esc(m.year)} · ${esc(m.director)} · ${hours(m.runtime)} · ${m.genres.map(esc).join(", ")}</div>
+      <div class="facts">${esc(m.year)} · ${esc(m.director)} · ${m.parts ? `${m.parts} Filme, zusammen ${hours(m.runtime)}` : hours(m.runtime)} · ${m.genres.map(esc).join(", ")}</div>
 
       <h3>Meine Meinung</h3>
       <p class="review">${esc(m.review)}</p>
