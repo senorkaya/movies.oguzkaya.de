@@ -124,7 +124,7 @@
       "schauspiel": 4,
       "look": 2.5
     },
-    "lastWatched": 4,
+    "lastWatched": 7,
     "poster": "posters/the-invisible-guest.jpg",
     "backdrop": "backdrops/the-invisible-guest.jpg",
     "logline": "Ein erfolgreicher Geschäftsmann steht unter Mordverdacht und hat eine Nacht, um mit seiner Anwältin seine Verteidigung vorzubereiten.",
@@ -174,7 +174,7 @@
       "schauspiel": 4,
       "look": 3
     },
-    "lastWatched": 6,
+    "lastWatched": 9,
     "noTrailer": true,
     "poster": "posters/die-taschendiebin.jpg",
     "backdrop": "backdrops/die-taschendiebin.jpg",
@@ -439,7 +439,7 @@
       "schauspiel": 5,
       "look": 5
     },
-    "lastWatched": 5,
+    "lastWatched": 8,
     "poster": "posters/prospect.jpg",
     "backdrop": "backdrops/prospect.jpg",
     "logline": "Ein Teenager und ihr Vater landen auf einem fremden Waldmond, um dort wertvolle Edelsteine zu schürfen.",
@@ -614,7 +614,7 @@
         "Saturn Award: Bester Science-Fiction-Film, Hauptdarsteller (Sam Rockwell)"
       ]
     },
-    "lastWatched": 3,
+    "lastWatched": 6,
     "en": {
       "title": "Moon",
       "logline": "Astronaut Sam Bell is the only person mining helium-3 on a station on the far side of the moon. Just two weeks before the end of his three-year stint, strange things start to happen.",
@@ -1580,7 +1580,7 @@
         ]
       }
     },
-    "lastWatched": 2
+    "lastWatched": 5
   },
   {
     "slug": "predestination",
@@ -1628,6 +1628,151 @@
           "AACTA Awards: Best Film, Direction, Adapted Screenplay"
         ]
       }
+    },
+    "lastWatched": 4
+  },
+  {
+    "slug": "her",
+    "title": "Her",
+    "year": 2013,
+    "director": "Spike Jonze",
+    "runtime": 126,
+    "genres": [
+      "Science-Fiction",
+      "Drama",
+      "Liebesfilm"
+    ],
+    "moods": [
+      "KI",
+      "Drama"
+    ],
+    "rating": 2.4,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 2,
+      "schauspiel": 2,
+      "look": 2
+    },
+    "poster": "posters/her.jpg",
+    "backdrop": "backdrops/her.jpg",
+    "logline": "Im Los Angeles der nahen Zukunft kauft sich ein einsamer Briefeschreiber ein neues Betriebssystem mit künstlicher Intelligenz – und kommt ihr erstaunlich nahe.",
+    "review": "Fand ich nicht so spannend und auch nicht so geil umgesetzt, obwohl die Grundidee echt nice ist.",
+    "highlight": "Oscar-Gewinner",
+    "awards": {
+      "won": [
+        "Oscar: Bestes Originaldrehbuch",
+        "Golden Globe: Bestes Drehbuch"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Filmmusik, Filmsong, Szenenbild",
+        "Golden Globe: Beste Komödie/Musical, Hauptdarsteller (Joaquin Phoenix)"
+      ]
+    },
+    "en": {
+      "logline": "In near-future Los Angeles, a lonely letter writer buys a new operating system with artificial intelligence – and grows surprisingly close to it.",
+      "review": "Didn't find it that exciting and didn't love how it was done, even though the basic idea is really nice.",
+      "highlight": "Oscar winner",
+      "awards": {
+        "won": [
+          "Oscar: Best Original Screenplay",
+          "Golden Globe: Best Screenplay"
+        ],
+        "nominated": [
+          "Oscar: Best Picture, Score, Original Song, Production Design",
+          "Golden Globe: Best Musical or Comedy, Lead Actor (Joaquin Phoenix)"
+        ]
+      }
+    },
+    "lastWatched": 3
+  },
+  {
+    "slug": "die-truman-show",
+    "title": "Die Truman Show",
+    "aka": "The Truman Show",
+    "year": 1998,
+    "director": "Peter Weir",
+    "runtime": 103,
+    "genres": [
+      "Komödie",
+      "Drama",
+      "Science-Fiction"
+    ],
+    "moods": [
+      "Klassiker",
+      "Aluhut"
+    ],
+    "rating": 3.1,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 2.5,
+      "schauspiel": 3,
+      "look": 2
+    },
+    "poster": "posters/die-truman-show.jpg",
+    "backdrop": "backdrops/die-truman-show.jpg",
+    "logline": "Truman Burbank führt ein gewöhnliches, gut gelauntes Leben in der Kleinstadt Seahaven – bis ihm immer mehr Kleinigkeiten seltsam vorkommen.",
+    "review": "Ein Klassiker, der super deep wird, je öfter man ihn guckt.",
+    "highlight": "3 Golden Globes",
+    "awards": {
+      "won": [
+        "Golden Globe: Hauptdarsteller Drama (Jim Carrey), Nebendarsteller (Ed Harris), Filmmusik",
+        "BAFTA: Regie, Originaldrehbuch, Szenenbild"
+      ],
+      "nominated": [
+        "Oscar: Regie, Nebendarsteller (Ed Harris), Originaldrehbuch"
+      ]
+    },
+    "en": {
+      "title": "The Truman Show",
+      "aka": "Die Truman Show",
+      "logline": "Truman Burbank lives an ordinary, cheerful life in the small town of Seahaven – until more and more little things start to feel off.",
+      "review": "A classic that gets super deep the more often you watch it.",
+      "highlight": "3 Golden Globes",
+      "awards": {
+        "won": [
+          "Golden Globe: Lead Actor Drama (Jim Carrey), Supporting Actor (Ed Harris), Score",
+          "BAFTA: Director, Original Screenplay, Production Design"
+        ],
+        "nominated": [
+          "Oscar: Director, Supporting Actor (Ed Harris), Original Screenplay"
+        ]
+      }
+    },
+    "lastWatched": 2
+  },
+  {
+    "slug": "omni-loop",
+    "title": "Omni Loop",
+    "year": 2024,
+    "director": "Bernardo Britto",
+    "runtime": 112,
+    "genres": [
+      "Science-Fiction",
+      "Drama",
+      "Komödie"
+    ],
+    "moods": [
+      "Mindfuck",
+      "Sci-Fi"
+    ],
+    "rating": 3.5,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 3.5,
+      "schauspiel": 3,
+      "look": 3
+    },
+    "poster": "posters/omni-loop.jpg",
+    "backdrop": "backdrops/omni-loop.jpg",
+    "logline": "Eine Physikerin hat nur noch eine Woche zu leben und erlebt diese Woche immer wieder von vorn – bis sie eine junge Studentin trifft.",
+    "review": "Super interessante Story mit einem extrem weirden Story-Verlauf. Hat super Spaß gemacht zu gucken!",
+    "awards": {
+      "won": [],
+      "nominated": []
+    },
+    "en": {
+      "logline": "A physicist with only a week left to live keeps reliving that week over and over – until she meets a young student.",
+      "review": "Super interesting story with an extremely weird plot progression. Had a great time watching it!"
     },
     "lastWatched": 1
   }
