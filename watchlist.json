@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "coherence",
+    "title": "Coherence",
+    "year": 2013,
+    "director": "James Ward Byrkit",
+    "runtime": 89,
+    "genres": ["Thriller", "Science-Fiction"],
+    "poster": "posters/coherence.jpg",
+    "logline": "Acht Freunde treffen sich zum Abendessen, während ein Komet an der Erde vorbeizieht – dann fällt der Strom aus.",
+    "en": { "logline": "Eight friends get together for dinner while a comet passes Earth – then the power goes out." }
+  },
+  {
+    "slug": "oldboy",
+    "title": "Oldboy",
+    "year": 2003,
+    "director": "Park Chan-wook",
+    "runtime": 120,
+    "genres": ["Thriller", "Mystery"],
+    "poster": "posters/oldboy.jpg",
+    "logline": "Ein Mann wird ohne Erklärung 15 Jahre lang in einem Zimmer eingesperrt und eines Tages plötzlich freigelassen.",
+    "en": { "logline": "A man is locked in a room for 15 years without explanation, then one day suddenly set free." }
+  },
+  {
+    "slug": "prisoners",
+    "title": "Prisoners",
+    "year": 2013,
+    "director": "Denis Villeneuve",
+    "runtime": 146,
+    "genres": ["Thriller", "Krimi", "Drama"],
+    "poster": "posters/prisoners.jpg",
+    "logline": "Als an Thanksgiving zwei kleine Mädchen spurlos verschwinden, nimmt einer der Väter die Suche selbst in die Hand.",
+    "en": { "logline": "When two little girls vanish without a trace on Thanksgiving, one of the fathers takes the search into his own hands." }
+  },
+  {
+    "slug": "gattaca",
+    "title": "Gattaca",
+    "year": 1997,
+    "director": "Andrew Niccol",
+    "runtime": 106,
+    "genres": ["Science-Fiction", "Drama"],
+    "poster": "posters/gattaca.jpg",
+    "logline": "In einer Zukunft, in der die Gene über den Lebensweg entscheiden, will ein Mann ohne perfektes Erbgut trotzdem ins All.",
+    "en": { "logline": "In a future where your genes decide your path in life, a man without perfect DNA is determined to reach space anyway." }
+  }
+]

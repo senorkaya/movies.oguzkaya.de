@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Oguz' Watchlist</title>
+  <meta name="description" content="Filme, die ich als Nächstes gucken will.">
+  <meta property="og:title" content="Oguz' Watchlist">
+  <meta property="og:description" content="Filme, die ich als Nächstes gucken will.">
+  <meta property="og:image" content="https://movies.oguzkaya.de/collage.jpg">
+  <meta name="theme-color" content="#000000">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero hero-small">
+    <div class="hero-bg" aria-hidden="true"></div>
+    <div class="lang" role="group" aria-label="Sprache / Language">
+      <button type="button" data-lang="de" aria-pressed="true">DE</button>
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+    </div>
+    <a class="top-link" href="/" id="back">← Filmliste</a>
+    <div class="hero-inner">
+      <h1 id="h1">Meine <span class="accent">Watchlist.</span></h1>
+      <p class="lead" id="lead">Filme, die ich als Nächstes gucken will.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="wl-grid" id="list"></div>
+  </main>
+
+  <footer class="footer" id="footer">Bilder: TMDB</footer>
+
+  <script src="watchlist.js"></script>
+</body>
+</html>
