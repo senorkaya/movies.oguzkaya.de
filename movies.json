@@ -124,7 +124,7 @@
       "schauspiel": 4,
       "look": 2.5
     },
-    "lastWatched": 5,
+    "lastWatched": 2,
     "poster": "posters/the-invisible-guest.jpg",
     "backdrop": "backdrops/the-invisible-guest.jpg",
     "logline": "Ein erfolgreicher Geschäftsmann steht unter Mordverdacht und hat eine Nacht, um mit seiner Anwältin seine Verteidigung vorzubereiten.",
@@ -174,7 +174,7 @@
       "schauspiel": 4,
       "look": 3
     },
-    "lastWatched": 7,
+    "lastWatched": 4,
     "noTrailer": true,
     "poster": "posters/die-taschendiebin.jpg",
     "backdrop": "backdrops/die-taschendiebin.jpg",
@@ -439,7 +439,7 @@
       "schauspiel": 5,
       "look": 5
     },
-    "lastWatched": 6,
+    "lastWatched": 3,
     "poster": "posters/prospect.jpg",
     "backdrop": "backdrops/prospect.jpg",
     "logline": "Ein Teenager und ihr Vater landen auf einem fremden Waldmond, um dort wertvolle Edelsteine zu schürfen.",
@@ -614,7 +614,7 @@
         "Saturn Award: Bester Science-Fiction-Film, Hauptdarsteller (Sam Rockwell)"
       ]
     },
-    "lastWatched": 4,
+    "lastWatched": 1,
     "en": {
       "title": "Moon",
       "logline": "Astronaut Sam Bell is the only person mining helium-3 on a station on the far side of the moon. Just two weeks before the end of his three-year stint, strange things start to happen.",
@@ -1680,8 +1680,7 @@
           "Golden Globe: Best Musical or Comedy, Lead Actor (Joaquin Phoenix)"
         ]
       }
-    },
-    "lastWatched": 3
+    }
   },
   {
     "slug": "die-truman-show",
@@ -1735,8 +1734,7 @@
           "Oscar: Director, Supporting Actor (Ed Harris), Original Screenplay"
         ]
       }
-    },
-    "lastWatched": 2
+    }
   },
   {
     "slug": "omni-loop",
@@ -1771,7 +1769,6 @@
     "en": {
       "logline": "A physicist with only a week left to live keeps reliving that week over and over – until she meets a young student.",
       "review": "Super interesting story with an extremely weird plot progression. Had a great time watching it!"
-    },
-    "lastWatched": 1
+    }
   }
 ]
