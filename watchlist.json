@@ -332,5 +332,36 @@
       ],
       "justwatch": "https://www.justwatch.com/de/Film/Decision-to-Leave"
     }
+  },
+  {
+    "slug": "sieben",
+    "title": "Sieben",
+    "aka": "Se7en",
+    "year": 1995,
+    "director": "David Fincher",
+    "runtime": 127,
+    "genres": [
+      "Thriller",
+      "Krimi",
+      "Mystery"
+    ],
+    "poster": "posters/sieben.jpg",
+    "logline": "Ein erfahrener Detective kurz vor der Pensionierung und sein junger, hitzköpfiger Nachfolger jagen einen Serienmörder, der seine Taten nach den sieben Todsünden inszeniert.",
+    "en": {
+      "title": "Se7en",
+      "logline": "A veteran detective days from retirement and his hot-headed young replacement hunt a serial killer who stages his murders after the seven deadly sins."
+    },
+    "watch": {
+      "flatrate": [
+        "HBO Max"
+      ],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Sieben"
+    }
   }
 ]
