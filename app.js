@@ -97,7 +97,7 @@ function verdict(n) {
   const v = t().verdicts;
   if (n >= 4.5) return v[0];
   if (n >= 3.5) return v[1];
-  if (n >= 2.5) return v[2];
+  if (n >= 2) return v[2];
   return v[3];
 }
 const verdictPill = m => `<span class="verdict ${m.rating >= 4.5 ? "top" : ""}">${verdict(m.rating)}</span>`;
