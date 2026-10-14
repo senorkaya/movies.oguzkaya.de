@@ -124,7 +124,7 @@
       "schauspiel": 4,
       "look": 2.5
     },
-    "lastWatched": 7,
+    "lastWatched": 5,
     "poster": "posters/the-invisible-guest.jpg",
     "backdrop": "backdrops/the-invisible-guest.jpg",
     "logline": "Ein erfolgreicher Geschäftsmann steht unter Mordverdacht und hat eine Nacht, um mit seiner Anwältin seine Verteidigung vorzubereiten.",
@@ -174,7 +174,7 @@
       "schauspiel": 4,
       "look": 3
     },
-    "lastWatched": 9,
+    "lastWatched": 7,
     "noTrailer": true,
     "poster": "posters/die-taschendiebin.jpg",
     "backdrop": "backdrops/die-taschendiebin.jpg",
@@ -439,7 +439,7 @@
       "schauspiel": 5,
       "look": 5
     },
-    "lastWatched": 8,
+    "lastWatched": 6,
     "poster": "posters/prospect.jpg",
     "backdrop": "backdrops/prospect.jpg",
     "logline": "Ein Teenager und ihr Vater landen auf einem fremden Waldmond, um dort wertvolle Edelsteine zu schürfen.",
@@ -614,7 +614,7 @@
         "Saturn Award: Bester Science-Fiction-Film, Hauptdarsteller (Sam Rockwell)"
       ]
     },
-    "lastWatched": 6,
+    "lastWatched": 4,
     "en": {
       "title": "Moon",
       "logline": "Astronaut Sam Bell is the only person mining helium-3 on a station on the far side of the moon. Just two weeks before the end of his three-year stint, strange things start to happen.",
@@ -1579,8 +1579,7 @@
           "BAFTA: 5 nominations, incl. Original Screenplay and Supporting Actress"
         ]
       }
-    },
-    "lastWatched": 5
+    }
   },
   {
     "slug": "predestination",
@@ -1628,8 +1627,7 @@
           "AACTA Awards: Best Film, Direction, Adapted Screenplay"
         ]
       }
-    },
-    "lastWatched": 4
+    }
   },
   {
     "slug": "her",
