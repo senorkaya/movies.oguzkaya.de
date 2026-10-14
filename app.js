@@ -16,6 +16,14 @@ const TEXT = {
     allChip: "Alle",
     empty: "Keine Filme in dieser Kategorie.",
     footer: "Bilder: TMDB",
+    signup: "Banger-Alarm",
+    signupLead: "Bekomm eine Mail, sobald ein Film mit 4,2 oder mehr dazukommt. Keine Werbung, jederzeit abmeldbar.",
+    signupBtn: "Eintragen",
+    signupLabel: "E-Mail-Adresse",
+    signupOk: "Du bist drin! Die nächste Banger-Mail kommt zu dir.",
+    signupBad: "Bitte gib eine gültige E-Mail-Adresse ein.",
+    signupErr: "Hat nicht geklappt. Bitte versuch es gleich nochmal.",
+    imprint: "Impressum",
     close: "Schließen",
     myTake: "Meine Meinung",
     breakdown: "Bewertung im Detail",
@@ -43,6 +51,14 @@ const TEXT = {
     allChip: "All",
     empty: "No films in this category.",
     footer: "Images: TMDB",
+    signup: "Banger alert",
+    signupLead: "Get an email whenever a film rated 4.2 or higher gets added. No ads, unsubscribe anytime.",
+    signupBtn: "Sign up",
+    signupLabel: "Email address",
+    signupOk: "You're in! The next banger email is coming your way.",
+    signupBad: "Please enter a valid email address.",
+    signupErr: "That didn't work. Please try again in a moment.",
+    imprint: "Legal notice",
     close: "Close",
     myTake: "My take",
     breakdown: "Rating breakdown",
@@ -136,6 +152,11 @@ function renderStatic() {
   $("h-recent").textContent = t().recent;
   $("h-all").textContent = t().all;
   $("footer").textContent = t().footer;
+  $("h-signup").textContent = t().signup;
+  $("signup-lead").textContent = t().signupLead;
+  $("signup-btn").textContent = t().signupBtn;
+  $("signup-label").textContent = t().signupLabel;
+  $("imprint-link").textContent = t().imprint;
   document.querySelectorAll("[data-lang]").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
 }
 
@@ -255,3 +276,29 @@ document.addEventListener("click", e => {
 });
 document.addEventListener("keydown", e => { if (e.key === "Escape" && !$("overlay").hidden) closeFilm(); });
 window.addEventListener("popstate", openFromHash);
+
+/* ---------- Banger-Alarm (Anmeldung läuft über Make) ---------- */
+const SIGNUP_HOOK = "https://hook.eu1.make.com/59y07e1pq4yvmsqhpu79c6ovxavdaors";
+$("signup-form").addEventListener("submit", async e => {
+  e.preventDefault();
+  const form = e.target;
+  const email = form.email.value.trim();
+  const msg = $("signup-msg");
+  msg.className = "signup-msg";
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { msg.textContent = t().signupBad; return; }
+  $("signup-btn").disabled = true;
+  try {
+    await fetch(SIGNUP_HOOK, {
+      method: "POST",
+      mode: "no-cors",
+      body: new URLSearchParams({ action: "subscribe", email, lang, website: form.website.value }),
+    });
+    msg.textContent = t().signupOk;
+    msg.classList.add("ok");
+    form.reset();
+  } catch {
+    msg.textContent = t().signupErr;
+  } finally {
+    $("signup-btn").disabled = false;
+  }
+});

@@ -30,3 +30,9 @@ Ein Film lässt sich direkt verlinken: `movies.oguzkaya.de/#<slug>`.
 ## Domain
 
 `movies.oguzkaya.de` ist als Custom Domain in Netlify eingetragen (Projekt `movies-oguzkaya`). DNS bei Hover: CNAME `movies` → `movies-oguzkaya.netlify.app`.
+
+## Banger-Alarm (Newsletter)
+
+- Anmeldung: Formular unten auf der Startseite → Make-Webhook „Movies: Newsletter An-/Abmelden“ → Google Sheet „Movies Newsletter – Abonnenten“.
+- Abmelden: Link in jeder Mail → derselbe Webhook → Zeile wird geleert → `abgemeldet.html`.
+- Versand: Für Filme ab 4,2 baut `python3 email/build_banger.py <slug>` die Mail (`email/out/<slug>.html`). Das Make-Szenario „Movies: Banger-Mail an alle Abonnenten“ verschickt sie über Resend (Absender `filme@asset.digitalmarketingtitans.com`), ohne doppelte Adressen.
