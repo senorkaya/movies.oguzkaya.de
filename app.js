@@ -16,9 +16,8 @@ const TEXT = {
     allChip: "Alle",
     empty: "Keine Filme in dieser Kategorie.",
     footer: "Bilder: TMDB",
-    signup: "Banger-Alarm",
-    signupLead: "Bekomm eine Mail, sobald ein Film mit 4,2 oder mehr dazukommt. Keine Werbung, jederzeit abmeldbar.",
-    signupBtn: "Eintragen",
+    signupBtn: "Banger-Alarm aktivieren",
+    signupHint: "Mail bei jedem Film ab 4,2. Jederzeit abmeldbar.",
     signupLabel: "E-Mail-Adresse",
     signupOk: "Du bist drin! Die nächste Banger-Mail kommt zu dir.",
     signupBad: "Bitte gib eine gültige E-Mail-Adresse ein.",
@@ -51,9 +50,8 @@ const TEXT = {
     allChip: "All",
     empty: "No films in this category.",
     footer: "Images: TMDB",
-    signup: "Banger alert",
-    signupLead: "Get an email whenever a film rated 4.2 or higher gets added. No ads, unsubscribe anytime.",
-    signupBtn: "Sign up",
+    signupBtn: "Turn on banger alerts",
+    signupHint: "An email for every film rated 4.2+. Unsubscribe anytime.",
     signupLabel: "Email address",
     signupOk: "You're in! The next banger email is coming your way.",
     signupBad: "Please enter a valid email address.",
@@ -152,10 +150,9 @@ function renderStatic() {
   $("h-recent").textContent = t().recent;
   $("h-all").textContent = t().all;
   $("footer").textContent = t().footer;
-  $("h-signup").textContent = t().signup;
-  $("signup-lead").textContent = t().signupLead;
   $("signup-btn").textContent = t().signupBtn;
   $("signup-label").textContent = t().signupLabel;
+  if (!$("signup-msg").classList.contains("ok")) { $("signup-msg").className = "signup-msg"; $("signup-msg").textContent = t().signupHint; }
   $("imprint-link").textContent = t().imprint;
   document.querySelectorAll("[data-lang]").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
 }
@@ -285,7 +282,7 @@ $("signup-form").addEventListener("submit", async e => {
   const email = form.email.value.trim();
   const msg = $("signup-msg");
   msg.className = "signup-msg";
-  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { msg.textContent = t().signupBad; return; }
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { msg.textContent = t().signupBad; msg.classList.add("err"); return; }
   $("signup-btn").disabled = true;
   try {
     await fetch(SIGNUP_HOOK, {
@@ -298,6 +295,7 @@ $("signup-form").addEventListener("submit", async e => {
     form.reset();
   } catch {
     msg.textContent = t().signupErr;
+    msg.classList.add("err");
   } finally {
     $("signup-btn").disabled = false;
   }
