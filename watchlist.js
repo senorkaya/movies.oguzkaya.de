@@ -33,7 +33,7 @@ const TEXT = {
     asOf: "Streaming info as of October 2026 (Germany). Offers change, so tap “All offers” if in doubt.",
   },
 };
-const GENRES_EN = { Krimi: "Crime", "Science-Fiction": "Science Fiction", Abenteuer: "Adventure", Komödie: "Comedy" };
+const GENRES_EN = { Krimi: "Crime", Biografie: "Biography", "Science-Fiction": "Science Fiction", Abenteuer: "Adventure", Komödie: "Comedy" };
 
 // Gleiche Sprachwahl wie auf der Filmliste
 function initialLang() {

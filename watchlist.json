@@ -363,5 +363,35 @@
       ],
       "justwatch": "https://www.justwatch.com/de/Film/Sieben"
     }
+  },
+  {
+    "slug": "lion",
+    "title": "Lion – Der lange Weg nach Hause",
+    "aka": "Lion",
+    "year": 2016,
+    "director": "Garth Davis",
+    "runtime": 118,
+    "genres": [
+      "Drama",
+      "Biografie"
+    ],
+    "poster": "posters/lion.jpg",
+    "logline": "Ein fünfjähriger Junge steigt in Indien in einen leeren Zug, landet tausende Kilometer von zu Hause entfernt in Kalkutta und wird schließlich von einem Paar aus Australien adoptiert.",
+    "en": {
+      "title": "Lion",
+      "logline": "A five-year-old boy in India boards an empty train, ends up thousands of kilometres from home in Kolkata and is eventually adopted by a couple from Australia."
+    },
+    "watch": {
+      "flatrate": [
+        "MagentaTV"
+      ],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Lion"
+    }
   }
 ]
