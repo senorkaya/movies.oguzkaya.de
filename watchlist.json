@@ -449,5 +449,93 @@
       ],
       "justwatch": "https://www.justwatch.com/de/Film/Source-Code"
     }
+  },
+  {
+    "slug": "upgrade",
+    "title": "Upgrade",
+    "year": 2018,
+    "director": "Leigh Whannell",
+    "runtime": 100,
+    "genres": [
+      "Science-Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "poster": "posters/upgrade.jpg",
+    "logline": "Nach einem Überfall querschnittsgelähmt, lässt sich ein Automechaniker einen experimentellen KI-Chip einsetzen, der ihm die Kontrolle über seinen Körper zurückgibt.",
+    "en": {
+      "logline": "Left paralysed after a mugging, a car mechanic gets an experimental AI chip implanted that gives him back control of his body."
+    },
+    "watch": {
+      "flatrate": [
+        "Prime Video",
+        "WOW",
+        "Joyn"
+      ],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Upgrade"
+    }
+  },
+  {
+    "slug": "the-killing-of-a-sacred-deer",
+    "title": "The Killing of a Sacred Deer",
+    "year": 2017,
+    "director": "Yorgos Lanthimos",
+    "runtime": 121,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Mystery"
+    ],
+    "poster": "posters/the-killing-of-a-sacred-deer.jpg",
+    "logline": "Ein erfolgreicher Herzchirurg trifft sich regelmäßig mit einem Jugendlichen, den er unter seine Fittiche nimmt und schließlich seiner Familie vorstellt.",
+    "en": {
+      "logline": "A successful heart surgeon regularly meets a teenage boy whom he takes under his wing and eventually introduces to his family."
+    },
+    "watch": {
+      "flatrate": [
+        "Joyn",
+        "MagentaTV"
+      ],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/The-Killing-of-a-Sacred-Deer"
+    }
+  },
+  {
+    "slug": "incendies",
+    "title": "Die Frau, die singt – Incendies",
+    "aka": "Incendies",
+    "year": 2010,
+    "director": "Denis Villeneuve",
+    "runtime": 131,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Kriegsfilm"
+    ],
+    "poster": "posters/incendies.jpg",
+    "logline": "Nach dem Tod ihrer Mutter erhalten Zwillinge zwei Briefe: einen für einen Vater, den sie für tot hielten, und einen für einen Bruder, von dem sie nichts wussten.",
+    "en": {
+      "title": "Incendies",
+      "logline": "After their mother's death, twins receive two letters: one for a father they believed was dead and one for a brother they never knew existed."
+    },
+    "watch": {
+      "flatrate": [],
+      "buy": true,
+      "buyFrom": [
+        "Videobuster"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Die-Frau-die-singt-Incendies"
+    }
   }
 ]
