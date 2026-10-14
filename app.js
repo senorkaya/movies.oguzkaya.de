@@ -68,7 +68,7 @@ const WORDS_EN = {
   Horror: "Horror", KI: "AI", Klassiker: "Classic", Komödie: "Comedy", Mindfuck: "Mindfuck",
   "Plot-Twist": "Plot Twist", "Sci-Fi": "Sci-Fi", Spannung: "Suspense",
   Abenteuer: "Adventure", Dokumentarfilm: "Documentary", Fantasy: "Fantasy", Krimi: "Crime",
-  Mystery: "Mystery", Liebesfilm: "Romance", "Science-Fiction": "Science Fiction", Sport: "Sports", Thriller: "Thriller", Western: "Western",
+  Mystery: "Mystery", Liebesfilm: "Romance", Biografie: "Biography", Kriegsfilm: "War", "Science-Fiction": "Science Fiction", Sport: "Sports", Thriller: "Thriller", Western: "Western",
 };
 
 function initialLang() {

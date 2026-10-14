@@ -1770,5 +1770,678 @@
       "logline": "A physicist with only a week left to live keeps reliving that week over and over – until she meets a young student.",
       "review": "Super interesting story with an extremely weird plot progression. Had a great time watching it!"
     }
+  },
+  {
+    "slug": "inception",
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "genres": [
+      "Science-Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "moods": [
+      "Mindfuck",
+      "Klassiker",
+      "Sci-Fi"
+    ],
+    "rating": 4.9,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 4.5,
+      "schauspiel": 5,
+      "look": 5
+    },
+    "poster": "posters/inception.jpg",
+    "backdrop": "backdrops/inception.jpg",
+    "logline": "Ein Dieb, der Geheimnisse aus den Träumen anderer stiehlt, soll das Unmögliche schaffen: einem Menschen eine Idee einpflanzen.",
+    "review": "Absoluter Klassiker! Kann man immer wieder gucken.",
+    "highlight": "4 Oscars",
+    "awards": {
+      "won": [
+        "Oscar: Kamera, Tonschnitt, Ton, Visuelle Effekte",
+        "BAFTA: Szenenbild, Ton, Visuelle Effekte",
+        "SAG Award: Stunt-Ensemble"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Originaldrehbuch, Szenenbild, Filmmusik",
+        "Golden Globe: Bestes Drama, Regie, Drehbuch, Filmmusik",
+        "BAFTA: Bester Film, Regie, Originaldrehbuch, Kamera, Schnitt, Filmmusik"
+      ]
+    },
+    "en": {
+      "logline": "A thief who steals secrets from people's dreams is offered a job that seems impossible: planting an idea in someone's mind.",
+      "highlight": "4 Oscars",
+      "awards": {
+        "won": [
+          "Academy Awards: Best Cinematography, Sound Editing, Sound Mixing, Visual Effects",
+          "BAFTA: Production Design, Sound, Special Visual Effects",
+          "SAG Award: Stunt Ensemble"
+        ],
+        "nominated": [
+          "Academy Awards: Best Picture, Original Screenplay, Art Direction, Original Score",
+          "Golden Globes: Best Motion Picture – Drama, Director, Screenplay, Original Score",
+          "BAFTA: Best Film, Director, Original Screenplay, Cinematography, Editing, Original Music"
+        ]
+      },
+      "review": "An absolute classic! You can watch it again and again."
+    }
+  },
+  {
+    "slug": "fight-club",
+    "title": "Fight Club",
+    "year": 1999,
+    "director": "David Fincher",
+    "runtime": 139,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "moods": [
+      "Mindfuck",
+      "Plot-Twist",
+      "Klassiker"
+    ],
+    "rating": 5.0,
+    "scores": {
+      "story": 5,
+      "unterhaltung": 5,
+      "schauspiel": 5,
+      "look": 5
+    },
+    "poster": "posters/fight-club.jpg",
+    "backdrop": "backdrops/fight-club.jpg",
+    "logline": "Ein schlafloser Büroangestellter lernt einen charismatischen Seifenverkäufer kennen, mit dem er einen geheimen Kellerclub für Faustkämpfe gründet.",
+    "review": "Klassiker!",
+    "awards": {
+      "won": [],
+      "nominated": [
+        "Oscar: Tonschnitt"
+      ]
+    },
+    "en": {
+      "logline": "An insomniac office worker meets a charismatic soap salesman, and together they start a secret underground fight club.",
+      "awards": {
+        "won": [],
+        "nominated": [
+          "Academy Awards: Best Sound Effects Editing"
+        ]
+      },
+      "review": "A classic!"
+    }
+  },
+  {
+    "slug": "interstellar",
+    "title": "Interstellar",
+    "year": 2014,
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "genres": [
+      "Science-Fiction",
+      "Drama",
+      "Abenteuer"
+    ],
+    "moods": [
+      "Sci-Fi",
+      "Klassiker",
+      "Augenschmaus"
+    ],
+    "rating": 4.6,
+    "scores": {
+      "story": 4.5,
+      "unterhaltung": 4,
+      "schauspiel": 5,
+      "look": 5
+    },
+    "poster": "posters/interstellar.jpg",
+    "backdrop": "backdrops/interstellar.jpg",
+    "logline": "Weil die Erde unbewohnbar zu werden droht, bricht ein ehemaliger Pilot mit einem Forscherteam durch ein Wurmloch auf, um eine neue Heimat für die Menschheit zu finden.",
+    "review": "Klassiker!",
+    "highlight": "Oscar-Gewinner",
+    "awards": {
+      "won": [
+        "Oscar: Visuelle Effekte",
+        "BAFTA: Visuelle Effekte",
+        "Saturn Award: Bester Science-Fiction-Film"
+      ],
+      "nominated": [
+        "Oscar: Filmmusik, Szenenbild, Tonschnitt, Ton",
+        "Golden Globe: Filmmusik",
+        "BAFTA: Filmmusik, Kamera, Szenenbild"
+      ]
+    },
+    "en": {
+      "logline": "With Earth becoming uninhabitable, a former pilot joins a team of explorers travelling through a wormhole to find humanity a new home.",
+      "highlight": "Oscar winner",
+      "awards": {
+        "won": [
+          "Academy Awards: Best Visual Effects",
+          "BAFTA: Special Visual Effects",
+          "Saturn Awards: Best Science Fiction Film"
+        ],
+        "nominated": [
+          "Academy Awards: Best Original Score, Production Design, Sound Editing, Sound Mixing",
+          "Golden Globes: Best Original Score",
+          "BAFTA: Original Music, Cinematography, Production Design"
+        ]
+      },
+      "review": "A classic!"
+    }
+  },
+  {
+    "slug": "arrival",
+    "title": "Arrival",
+    "year": 2016,
+    "director": "Denis Villeneuve",
+    "runtime": 116,
+    "genres": [
+      "Science-Fiction",
+      "Drama",
+      "Mystery"
+    ],
+    "moods": [
+      "Sci-Fi",
+      "Mindfuck"
+    ],
+    "rating": 4.4,
+    "scores": {
+      "story": 4.5,
+      "unterhaltung": 4,
+      "schauspiel": 4,
+      "look": 5
+    },
+    "poster": "posters/arrival.jpg",
+    "backdrop": "backdrops/arrival.jpg",
+    "logline": "Als rätselhafte Raumschiffe auf der Erde landen, soll eine Linguistin herausfinden, wie man sich mit den Außerirdischen verständigen kann – und was sie wollen.",
+    "review": "Wirklich geiler Alien-Film, der einem den Horizont erweitert, wie außerirdisches Leben aussehen könnte. Große Empfehlung für Alien-Fans.",
+    "highlight": "Oscar-Gewinner",
+    "awards": {
+      "won": [
+        "Oscar: Tonschnitt",
+        "BAFTA: Ton",
+        "Critics' Choice: Bester Sci-Fi/Horror-Film, Adaptiertes Drehbuch"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Regie, Adaptiertes Drehbuch, Kamera, Schnitt, Szenenbild, Ton",
+        "Golden Globe: Hauptdarstellerin (Amy Adams), Filmmusik",
+        "BAFTA: Bester Film, Regie, Hauptdarstellerin (Amy Adams), Adaptiertes Drehbuch",
+        "Venedig: Goldener Löwe"
+      ]
+    },
+    "en": {
+      "logline": "When mysterious spacecraft land around the world, a linguist is recruited to find a way to communicate with the visitors – and learn what they want.",
+      "highlight": "Oscar winner",
+      "awards": {
+        "won": [
+          "Academy Awards: Best Sound Editing",
+          "BAFTA: Best Sound",
+          "Critics' Choice: Best Sci-Fi/Horror Movie, Adapted Screenplay"
+        ],
+        "nominated": [
+          "Academy Awards: Best Picture, Director, Adapted Screenplay, Cinematography, Film Editing, Production Design, Sound Mixing",
+          "Golden Globes: Best Actress – Drama (Amy Adams), Original Score",
+          "BAFTA: Best Film, Director, Leading Actress (Amy Adams), Adapted Screenplay",
+          "Venice: Golden Lion"
+        ]
+      },
+      "review": "A really awesome alien film that broadens your horizons on what extraterrestrial life could look like. Big recommendation for alien fans."
+    }
+  },
+  {
+    "slug": "blade-runner-2049",
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "director": "Denis Villeneuve",
+    "runtime": 163,
+    "genres": [
+      "Science-Fiction",
+      "Drama",
+      "Thriller"
+    ],
+    "moods": [
+      "Sci-Fi",
+      "KI",
+      "Augenschmaus"
+    ],
+    "rating": 4.3,
+    "scores": {
+      "story": 4.5,
+      "unterhaltung": 3.5,
+      "schauspiel": 4,
+      "look": 5
+    },
+    "poster": "posters/blade-runner-2049.jpg",
+    "backdrop": "backdrops/blade-runner-2049.jpg",
+    "logline": "Dreißig Jahre nach den Ereignissen des ersten Films stößt ein junger Blade Runner auf ein lange verborgenes Geheimnis, das ihn auf die Spur des verschollenen Rick Deckard führt.",
+    "review": "Auch ein guter Neuzeit-Klassiker. Geile Visuals, gute Story und gutes Kostümdesign!",
+    "highlight": "2 Oscars",
+    "awards": {
+      "won": [
+        "Oscar: Kamera (Roger Deakins), Visuelle Effekte",
+        "BAFTA: Kamera, Visuelle Effekte"
+      ],
+      "nominated": [
+        "Oscar: Szenenbild, Tonschnitt, Ton",
+        "BAFTA: Regie, Filmmusik, Make-up und Frisuren"
+      ]
+    },
+    "en": {
+      "logline": "Thirty years after the original film, a young blade runner uncovers a long-buried secret that leads him to track down the missing Rick Deckard.",
+      "highlight": "2 Oscars",
+      "awards": {
+        "won": [
+          "Academy Awards: Best Cinematography (Roger Deakins), Visual Effects",
+          "BAFTA: Cinematography, Special Visual Effects"
+        ],
+        "nominated": [
+          "Academy Awards: Best Production Design, Sound Editing, Sound Mixing",
+          "BAFTA: Best Director, Original Music, Makeup and Hair"
+        ]
+      },
+      "review": "Another great modern classic. Awesome visuals, a good story and great costume design!"
+    }
+  },
+  {
+    "slug": "dune",
+    "title": "Dune",
+    "year": 2021,
+    "director": "Denis Villeneuve",
+    "runtime": 155,
+    "genres": [
+      "Science-Fiction",
+      "Abenteuer",
+      "Drama"
+    ],
+    "moods": [
+      "Sci-Fi",
+      "Augenschmaus"
+    ],
+    "rating": 3.3,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 2.5,
+      "schauspiel": 3,
+      "look": 5
+    },
+    "poster": "posters/dune.jpg",
+    "backdrop": "backdrops/dune.jpg",
+    "logline": "Der junge Adelserbe Paul Atreides zieht mit seiner Familie auf den gefährlichen Wüstenplaneten Arrakis, die einzige Quelle der wertvollsten Substanz des Universums.",
+    "review": "Wenn man die Bücher gelesen hat, ist der Film natürlich etwas enttäuschend, weil so viel Wichtiges weggelassen wurde. Aber unterm Strich super geile Visuals. Die Story ist eine klassische Hero's Journey und daher sehr absehbar. Die Dune-Welt an sich ist aber ein super interessantes und detailreiches Universum – im Buch leider zehnmal mehr als im Film.",
+    "highlight": "6 Oscars",
+    "awards": {
+      "won": [
+        "Oscar: Kamera, Schnitt, Szenenbild, Filmmusik (Hans Zimmer), Ton, Visuelle Effekte",
+        "Golden Globe: Filmmusik",
+        "BAFTA: Kamera, Filmmusik, Szenenbild, Ton, Visuelle Effekte"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Adaptiertes Drehbuch, Kostüme, Make-up und Frisuren",
+        "Golden Globe: Bestes Drama, Regie",
+        "BAFTA: Bester Film, Adaptiertes Drehbuch"
+      ]
+    },
+    "en": {
+      "logline": "Young noble heir Paul Atreides moves with his family to the dangerous desert planet Arrakis, the only source of the most valuable substance in the universe.",
+      "highlight": "6 Oscars",
+      "awards": {
+        "won": [
+          "Academy Awards: Best Cinematography, Film Editing, Production Design, Original Score (Hans Zimmer), Sound, Visual Effects",
+          "Golden Globes: Best Original Score",
+          "BAFTA: Cinematography, Original Score, Production Design, Sound, Special Visual Effects"
+        ],
+        "nominated": [
+          "Academy Awards: Best Picture, Adapted Screenplay, Costume Design, Makeup and Hairstyling",
+          "Golden Globes: Best Motion Picture – Drama, Director",
+          "BAFTA: Best Film, Adapted Screenplay"
+        ]
+      },
+      "review": "If you've read the books, the film is a bit disappointing, of course, because so much important stuff got cut. But all in all, super awesome visuals. The story is a classic hero's journey and therefore very predictable. The Dune world itself, though, is a super interesting and detailed universe – unfortunately ten times more so in the books than in the film."
+    }
+  },
+  {
+    "slug": "pulp-fiction",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "genres": [
+      "Krimi",
+      "Thriller",
+      "Komödie"
+    ],
+    "moods": [
+      "Klassiker"
+    ],
+    "rating": 3.0,
+    "scores": {
+      "story": 3.5,
+      "unterhaltung": 3,
+      "schauspiel": 3,
+      "look": 2
+    },
+    "poster": "posters/pulp-fiction.jpg",
+    "backdrop": "backdrops/pulp-fiction.jpg",
+    "logline": "Zwei Auftragskiller, ein Boxer, die Frau eines Gangsterbosses und ein Gaunerpärchen geraten in Los Angeles in miteinander verwobene Geschichten.",
+    "review": "Kann man auf jeden Fall gucken. Ein guter, klassischer Tarantino-Film!",
+    "highlight": "Goldene Palme",
+    "awards": {
+      "won": [
+        "Cannes: Goldene Palme",
+        "Oscar: Originaldrehbuch",
+        "Golden Globe: Drehbuch",
+        "BAFTA: Originaldrehbuch, Nebendarsteller (Samuel L. Jackson)"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Regie, Hauptdarsteller (John Travolta), Nebendarsteller (Samuel L. Jackson), Nebendarstellerin (Uma Thurman), Schnitt",
+        "Golden Globe: Bestes Drama, Regie, Hauptdarsteller (John Travolta), Nebendarsteller (Samuel L. Jackson), Nebendarstellerin (Uma Thurman)",
+        "BAFTA: Bester Film, Regie, Hauptdarsteller (John Travolta), Hauptdarstellerin (Uma Thurman)",
+        "SAG Award: Hauptdarsteller (John Travolta), Nebendarsteller (Samuel L. Jackson), Nebendarstellerin (Uma Thurman)"
+      ]
+    },
+    "en": {
+      "logline": "Two hitmen, a boxer, a gangster's wife and a pair of small-time robbers get caught up in intertwining stories across Los Angeles.",
+      "highlight": "Palme d'Or",
+      "awards": {
+        "won": [
+          "Cannes: Palme d'Or",
+          "Academy Awards: Best Original Screenplay",
+          "Golden Globes: Best Screenplay",
+          "BAFTA: Original Screenplay, Supporting Actor (Samuel L. Jackson)"
+        ],
+        "nominated": [
+          "Academy Awards: Best Picture, Director, Actor (John Travolta), Supporting Actor (Samuel L. Jackson), Supporting Actress (Uma Thurman), Film Editing",
+          "Golden Globes: Best Motion Picture – Drama, Director, Actor – Drama (John Travolta), Supporting Actor (Samuel L. Jackson), Supporting Actress (Uma Thurman)",
+          "BAFTA: Best Film, Director, Leading Actor (John Travolta), Leading Actress (Uma Thurman)",
+          "SAG Awards: Male Actor in a Leading Role (John Travolta), Male Actor in a Supporting Role (Samuel L. Jackson), Female Actor in a Supporting Role (Uma Thurman)"
+        ]
+      },
+      "review": "Definitely worth a watch. A good, classic Tarantino film!"
+    }
+  },
+  {
+    "slug": "the-dark-knight",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "genres": [
+      "Action",
+      "Krimi",
+      "Thriller"
+    ],
+    "moods": [
+      "Klassiker",
+      "Action"
+    ],
+    "rating": 4.4,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 4,
+      "schauspiel": 5,
+      "look": 5
+    },
+    "poster": "posters/the-dark-knight.jpg",
+    "backdrop": "backdrops/the-dark-knight.jpg",
+    "logline": "Batman will das organisierte Verbrechen in Gotham endgültig zerschlagen, doch ein unberechenbarer Verbrecher namens Joker stürzt die Stadt ins Chaos.",
+    "review": "Klassische Hero's Journey, und wenn man die Batman-Story kennt, ist nicht wirklich Spannung drin. Schauspielerisch und visuell aber ein absoluter Augenschmaus. Heath Ledger spielt den Joker mit Abstand phänomenal gut. Nimmt man dann noch die Gerüchte dazu, wie sehr ihn die intensive Vorbereitung auf diese Rolle mitgenommen haben soll, wird sein Joker zu einer meiner absoluten Lieblings-Filmfiguren aller Zeiten.",
+    "highlight": "2 Oscars",
+    "awards": {
+      "won": [
+        "Oscar: Nebendarsteller (Heath Ledger), Tonschnitt",
+        "Golden Globe: Nebendarsteller (Heath Ledger)",
+        "BAFTA: Nebendarsteller (Heath Ledger)",
+        "SAG Award: Nebendarsteller (Heath Ledger), Stunt-Ensemble"
+      ],
+      "nominated": [
+        "Oscar: Szenenbild, Kamera, Schnitt, Make-up, Ton, Visuelle Effekte",
+        "BAFTA: Kamera, Kostüme, Schnitt, Filmmusik, Make-up und Frisuren, Szenenbild, Ton, Visuelle Effekte"
+      ]
+    },
+    "en": {
+      "logline": "Batman sets out to dismantle organised crime in Gotham for good, but an unpredictable criminal known as the Joker plunges the city into chaos.",
+      "highlight": "2 Oscars",
+      "awards": {
+        "won": [
+          "Academy Awards: Best Supporting Actor (Heath Ledger), Sound Editing",
+          "Golden Globes: Best Supporting Actor (Heath Ledger)",
+          "BAFTA: Supporting Actor (Heath Ledger)",
+          "SAG Awards: Male Actor in a Supporting Role (Heath Ledger), Stunt Ensemble"
+        ],
+        "nominated": [
+          "Academy Awards: Best Art Direction, Cinematography, Film Editing, Makeup, Sound Mixing, Visual Effects",
+          "BAFTA: Cinematography, Costume Design, Editing, Film Music, Makeup and Hair, Production Design, Sound, Special Visual Effects"
+        ]
+      },
+      "review": "A classic hero's journey, and if you know the Batman story, there's not much real suspense. But in terms of acting and visuals, an absolute feast for the eyes. Heath Ledger's Joker is phenomenal, by a mile. Add the rumours about how much the intense preparation for the role is said to have taken out of him, and his Joker becomes one of my favourite film characters of all time."
+    }
+  },
+  {
+    "slug": "inglourious-basterds",
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "director": "Quentin Tarantino",
+    "runtime": 153,
+    "genres": [
+      "Kriegsfilm",
+      "Drama",
+      "Thriller"
+    ],
+    "moods": [
+      "Klassiker",
+      "Spannung"
+    ],
+    "rating": 4.1,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 4,
+      "schauspiel": 5,
+      "look": 3.5
+    },
+    "poster": "posters/inglourious-basterds.jpg",
+    "backdrop": "backdrops/inglourious-basterds.jpg",
+    "logline": "Im von den Nazis besetzten Frankreich verfolgen eine Gruppe jüdisch-amerikanischer Soldaten und eine junge Kinobesitzerin jeweils eigene Pläne gegen die NS-Führung.",
+    "review": "Absoluter Klassiker und eine Granate von Tarantino. Christoph Waltz ist einer meiner Lieblingsschauspieler. Die Figuren, die Tarantino kreiert, und die Informationen, die er über sie einfließen lässt – und teilweise BEWUSST weglässt –, geben seinen Filmen eine Dimension, die man in anderen Filmen vermisst.",
+    "highlight": "Oscar-Gewinner",
+    "awards": {
+      "won": [
+        "Oscar: Nebendarsteller (Christoph Waltz)",
+        "Cannes: Bester Darsteller (Christoph Waltz)",
+        "Golden Globe: Nebendarsteller (Christoph Waltz)",
+        "SAG Award: Nebendarsteller (Christoph Waltz), Bestes Ensemble"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Regie, Originaldrehbuch, Kamera, Schnitt, Tonschnitt, Ton",
+        "Cannes: Goldene Palme",
+        "Golden Globe: Bestes Drama, Regie, Drehbuch",
+        "BAFTA: Regie, Originaldrehbuch, Kamera, Schnitt, Szenenbild"
+      ]
+    },
+    "en": {
+      "logline": "In Nazi-occupied France, a band of Jewish-American soldiers and a young cinema owner each pursue their own plans against the Nazi leadership.",
+      "highlight": "Oscar winner",
+      "awards": {
+        "won": [
+          "Academy Awards: Best Supporting Actor (Christoph Waltz)",
+          "Cannes: Best Actor (Christoph Waltz)",
+          "Golden Globes: Best Supporting Actor (Christoph Waltz)",
+          "SAG Awards: Male Actor in a Supporting Role (Christoph Waltz), Outstanding Cast"
+        ],
+        "nominated": [
+          "Academy Awards: Best Picture, Director, Original Screenplay, Cinematography, Film Editing, Sound Editing, Sound Mixing",
+          "Cannes: Palme d'Or",
+          "Golden Globes: Best Motion Picture – Drama, Director, Screenplay",
+          "BAFTA: Best Director, Original Screenplay, Cinematography, Editing, Production Design"
+        ]
+      },
+      "review": "An absolute classic and a banger from Tarantino. Christoph Waltz is one of my favourite actors. The characters Tarantino creates, and the information he feeds you about them – and sometimes DELIBERATELY leaves out – give his films a dimension you miss in other movies."
+    }
+  },
+  {
+    "slug": "django-unchained",
+    "title": "Django Unchained",
+    "year": 2012,
+    "director": "Quentin Tarantino",
+    "runtime": 165,
+    "genres": [
+      "Western",
+      "Drama"
+    ],
+    "moods": [
+      "Klassiker",
+      "Action"
+    ],
+    "rating": 4.2,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 3,
+      "schauspiel": 5,
+      "look": 5
+    },
+    "poster": "posters/django-unchained.jpg",
+    "backdrop": "backdrops/django-unchained.jpg",
+    "logline": "Zwei Jahre vor dem Bürgerkrieg befreit ein deutscher Kopfgeldjäger den Sklaven Django, der fortan mit ihm zieht, um seine Frau aus den Händen eines Plantagenbesitzers zu retten.",
+    "review": "Es gibt so viele lustige Memes und Clips, in denen Jamie Foxx die Zusammenarbeit mit Tarantino, Christoph Waltz, DiCaprio und Samuel L. Jackson an diesem Film beschreibt. Absolute Starbesetzung und einfach eine geile Story. Macht immer wieder Spaß zu gucken.",
+    "highlight": "2 Oscars",
+    "awards": {
+      "won": [
+        "Oscar: Nebendarsteller (Christoph Waltz), Originaldrehbuch",
+        "Golden Globe: Nebendarsteller (Christoph Waltz), Drehbuch",
+        "BAFTA: Nebendarsteller (Christoph Waltz), Originaldrehbuch"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Kamera, Tonschnitt",
+        "Golden Globe: Bestes Drama, Regie",
+        "BAFTA: Regie, Schnitt, Ton"
+      ]
+    },
+    "en": {
+      "logline": "Two years before the Civil War, a German bounty hunter frees a slave named Django, who joins him on a mission to rescue his wife from a plantation owner.",
+      "highlight": "2 Oscars",
+      "awards": {
+        "won": [
+          "Academy Awards: Best Supporting Actor (Christoph Waltz), Original Screenplay",
+          "Golden Globes: Best Supporting Actor (Christoph Waltz), Screenplay",
+          "BAFTA: Supporting Actor (Christoph Waltz), Original Screenplay"
+        ],
+        "nominated": [
+          "Academy Awards: Best Picture, Cinematography, Sound Editing",
+          "Golden Globes: Best Motion Picture – Drama, Director",
+          "BAFTA: Best Director, Editing, Sound"
+        ]
+      },
+      "review": "There are so many funny memes and clips of Jamie Foxx describing working with Tarantino, Christoph Waltz, DiCaprio and Samuel L. Jackson on this film. An absolute all-star cast and just an awesome story. Fun to watch again and again."
+    }
+  },
+  {
+    "slug": "the-wolf-of-wall-street",
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "director": "Martin Scorsese",
+    "runtime": 180,
+    "genres": [
+      "Biografie",
+      "Komödie",
+      "Krimi"
+    ],
+    "moods": [
+      "Klassiker",
+      "Komödie"
+    ],
+    "rating": 3.8,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 3,
+      "schauspiel": 5,
+      "look": 3
+    },
+    "poster": "posters/the-wolf-of-wall-street.jpg",
+    "backdrop": "backdrops/the-wolf-of-wall-street.jpg",
+    "logline": "Die wahre Geschichte des New Yorker Börsenmaklers Jordan Belfort, der mit skrupellosen Methoden zu Reichtum kommt und ein Leben im Exzess führt.",
+    "review": "Another classic! Ich finde es zwar nicht geil, dass ein Betrüger so krass gefeiert wird, aber die Inszenierung seines Lebens und der Impact, den dieser Film in Gesellschaft und Kultur hinterlassen hat, sind crazy.",
+    "highlight": "Golden Globe",
+    "awards": {
+      "won": [
+        "Golden Globe: Hauptdarsteller Komödie/Musical (Leonardo DiCaprio)"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Regie, Hauptdarsteller (Leonardo DiCaprio), Nebendarsteller (Jonah Hill), Adaptiertes Drehbuch",
+        "Golden Globe: Beste Komödie/Musical",
+        "BAFTA: Regie, Hauptdarsteller (Leonardo DiCaprio), Adaptiertes Drehbuch, Schnitt"
+      ]
+    },
+    "en": {
+      "logline": "The true story of New York stockbroker Jordan Belfort, who uses ruthless methods to get rich and lives a life of excess.",
+      "highlight": "Golden Globe",
+      "awards": {
+        "won": [
+          "Golden Globes: Best Actor – Musical or Comedy (Leonardo DiCaprio)"
+        ],
+        "nominated": [
+          "Academy Awards: Best Picture, Director, Actor (Leonardo DiCaprio), Supporting Actor (Jonah Hill), Adapted Screenplay",
+          "Golden Globes: Best Motion Picture – Musical or Comedy",
+          "BAFTA: Best Director, Leading Actor (Leonardo DiCaprio), Adapted Screenplay, Editing"
+        ]
+      },
+      "review": "Another classic! I don't love that a fraudster gets celebrated this hard, but the way his life is staged and the impact this film has left on society and culture are crazy."
+    }
+  },
+  {
+    "slug": "oppenheimer",
+    "title": "Oppenheimer",
+    "year": 2023,
+    "director": "Christopher Nolan",
+    "runtime": 180,
+    "genres": [
+      "Biografie",
+      "Drama"
+    ],
+    "moods": [
+      "Drama"
+    ],
+    "rating": 3.1,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 3,
+      "schauspiel": 3.5,
+      "look": 3
+    },
+    "poster": "posters/oppenheimer.jpg",
+    "backdrop": "backdrops/oppenheimer.jpg",
+    "logline": "Der Physiker J. Robert Oppenheimer leitet im Zweiten Weltkrieg das geheime Manhattan-Projekt zur Entwicklung der ersten Atombombe.",
+    "review": "Netter Film, kann man auf jeden Fall gucken. Hat mich jetzt nicht krass umgehauen, war aber gut!",
+    "highlight": "7 Oscars",
+    "awards": {
+      "won": [
+        "Oscar: Bester Film, Regie, Hauptdarsteller (Cillian Murphy), Nebendarsteller (Robert Downey Jr.), Kamera, Schnitt, Filmmusik",
+        "Golden Globe: Bestes Drama, Regie, Hauptdarsteller (Cillian Murphy), Nebendarsteller (Robert Downey Jr.), Filmmusik",
+        "BAFTA: Bester Film, Regie, Hauptdarsteller (Cillian Murphy), Nebendarsteller (Robert Downey Jr.), Kamera, Schnitt, Filmmusik",
+        "SAG Award: Bestes Ensemble, Hauptdarsteller (Cillian Murphy), Nebendarsteller (Robert Downey Jr.)"
+      ],
+      "nominated": [
+        "Oscar: Nebendarstellerin (Emily Blunt), Adaptiertes Drehbuch, Kostüme, Make-up und Frisuren, Szenenbild, Ton",
+        "Golden Globe: Nebendarstellerin (Emily Blunt), Drehbuch",
+        "BAFTA: Nebendarstellerin (Emily Blunt), Adaptiertes Drehbuch, Kostüme, Szenenbild, Make-up und Frisuren, Ton"
+      ]
+    },
+    "en": {
+      "logline": "During World War II, physicist J. Robert Oppenheimer leads the secret Manhattan Project to develop the first atomic bomb.",
+      "highlight": "7 Oscars",
+      "awards": {
+        "won": [
+          "Academy Awards: Best Picture, Director, Actor (Cillian Murphy), Supporting Actor (Robert Downey Jr.), Cinematography, Film Editing, Original Score",
+          "Golden Globes: Best Motion Picture – Drama, Director, Actor – Drama (Cillian Murphy), Supporting Actor (Robert Downey Jr.), Original Score",
+          "BAFTA: Best Film, Director, Leading Actor (Cillian Murphy), Supporting Actor (Robert Downey Jr.), Cinematography, Editing, Original Score",
+          "SAG Awards: Outstanding Cast, Male Actor in a Leading Role (Cillian Murphy), Male Actor in a Supporting Role (Robert Downey Jr.)"
+        ],
+        "nominated": [
+          "Academy Awards: Best Supporting Actress (Emily Blunt), Adapted Screenplay, Costume Design, Makeup and Hairstyling, Production Design, Sound",
+          "Golden Globes: Best Supporting Actress (Emily Blunt), Screenplay",
+          "BAFTA: Supporting Actress (Emily Blunt), Adapted Screenplay, Costume Design, Production Design, Makeup and Hair, Sound"
+        ]
+      },
+      "review": "Nice film, definitely worth a watch. Didn't blow me away, but it was good!"
+    }
   }
 ]
