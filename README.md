@@ -16,7 +16,7 @@ Meine Filmempfehlungen für Freunde. Nur HTML, CSS und JavaScript, keine Depende
    - `noTrailer: true` blendet den Tipp „Keinen Trailer gucken“ ein
    - `highlight`: kurzer Preis-Hinweis auf der Karte (z. B. „4 Oscars“)
    - `awards`: `won` und `nominated` als Listen
-   - „Meine Lieblingsfilme“ zeigt automatisch die 4 bestbewerteten Filme
+   - `pick`: 1–4 setzt den Film in „Meine aktuellen Filmempfehlungen“ (1 = zuerst). Von Hand ausgewählt, nicht nach Bewertung.
    - `lastWatched`: 1 = zuletzt gesehen, 2 = davor, … (erscheint unter „Zuletzt gesehen“)
    - `en`: englische Fassung von `title`, `aka`, `logline`, `review`, `highlight` und `awards`. Fehlt ein Feld, zeigt die englische Seite den deutschen Text.
 3. Committen und pushen.

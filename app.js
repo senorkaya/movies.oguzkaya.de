@@ -10,7 +10,7 @@ const TEXT = {
     title: "Oguz' Filmliste",
     h1: `Oguz' <span class="accent">Filmliste.</span>`,
     lead: "Jeder Film, den ich gucke, mit Bewertung und meiner Meinung dazu.",
-    favorites: "Meine Lieblingsfilme",
+    favorites: "Meine aktuellen Filmempfehlungen",
     recent: "Zuletzt gesehen",
     all: "Alle Filme",
     allChip: "Alle",
@@ -37,7 +37,7 @@ const TEXT = {
     title: "Oguz's Film List",
     h1: `Oguz's <span class="accent">film list.</span>`,
     lead: "Every film I watch, with a rating and my take on it.",
-    favorites: "My favourite films",
+    favorites: "My current recommendations",
     recent: "Recently watched",
     all: "All films",
     allChip: "All",
@@ -140,7 +140,8 @@ function renderStatic() {
 }
 
 function renderLists() {
-  $("favorites").innerHTML = movies.slice(0, 4).map(card).join("");
+  // Von Oguz handverlesen, Reihenfolge über "pick" (1 = zuerst)
+  $("favorites").innerHTML = movies.filter(m => m.pick).sort((a, b) => a.pick - b.pick).map(card).join("");
   $("recent").innerHTML = movies.filter(m => m.lastWatched).sort((a, b) => a.lastWatched - b.lastWatched).slice(0, 4).map(card).join("");
   renderChips();
   renderGrid();
@@ -238,8 +239,7 @@ renderStatic();
 fetch("movies.json", { cache: "no-cache" })
   .then(r => r.json())
   .then(data => {
-    // Beste Bewertung zuerst, bei Gleichstand die Reihenfolge aus movies.json.
-    // Lieblingsfilme = automatisch die 4 bestbewerteten.
+    // Beste Bewertung zuerst, bei Gleichstand die Reihenfolge aus movies.json
     movies = data.map((m, i) => ({ ...m, i })).sort((a, b) => b.rating - a.rating || a.i - b.i);
     renderLists();
     openFromHash();

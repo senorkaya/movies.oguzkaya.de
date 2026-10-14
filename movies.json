@@ -55,7 +55,8 @@
           "Venice: Golden Lion"
         ]
       }
-    }
+    },
+    "pick": 2
   },
   {
     "slug": "i-am-mother",
@@ -99,7 +100,8 @@
           "AACTA Award (Australia): Best Supporting Actress (Hilary Swank), Best Visual Effects"
         ]
       }
-    }
+    },
+    "pick": 1
   },
   {
     "slug": "the-invisible-guest",
@@ -211,7 +213,8 @@
           "Critics' Choice: Best Foreign Language Film"
         ]
       }
-    }
+    },
+    "pick": 4
   },
   {
     "slug": "10-cloverfield-lane",
@@ -672,7 +675,8 @@
         "won": [],
         "nominated": []
       }
-    }
+    },
+    "pick": 3
   },
   {
     "slug": "the-substance",
