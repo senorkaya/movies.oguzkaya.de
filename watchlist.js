@@ -37,6 +37,11 @@ const GENRES_EN = { Krimi: "Crime", Kriegsfilm: "War", Action: "Action", Biograf
 
 // Gleiche Sprachwahl wie auf der Filmliste
 function initialLang() {
+  const fromUrl = new URLSearchParams(location.search).get("lang");
+  if (fromUrl === "de" || fromUrl === "en") {
+    try { localStorage.setItem("lang", fromUrl); } catch {}
+    return fromUrl;
+  }
   try {
     const saved = localStorage.getItem("lang");
     if (saved === "de" || saved === "en") return saved;

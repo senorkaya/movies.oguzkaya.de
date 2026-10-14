@@ -86,6 +86,11 @@ const WORDS_EN = {
 };
 
 function initialLang() {
+  const fromUrl = new URLSearchParams(location.search).get("lang");
+  if (fromUrl === "de" || fromUrl === "en") {
+    try { localStorage.setItem("lang", fromUrl); } catch {}
+    return fromUrl;
+  }
   try {
     const saved = localStorage.getItem("lang");
     if (saved === "de" || saved === "en") return saved;
