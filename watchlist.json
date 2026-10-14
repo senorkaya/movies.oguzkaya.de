@@ -393,5 +393,61 @@
       ],
       "justwatch": "https://www.justwatch.com/de/Film/Lion"
     }
+  },
+  {
+    "slug": "donnie-darko",
+    "title": "Donnie Darko",
+    "year": 2001,
+    "director": "Richard Kelly",
+    "runtime": 113,
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Science-Fiction"
+    ],
+    "poster": "posters/donnie-darko.jpg",
+    "logline": "Der verstörte Teenager Donnie entgeht nur knapp einem rätselhaften Unglück, nachdem ihm ein unheimlicher Mann im Hasenkostüm das nahe Ende der Welt prophezeit hat.",
+    "en": {
+      "logline": "Troubled teenager Donnie narrowly escapes a bizarre accident after a sinister figure in a rabbit costume tells him the world is about to end."
+    },
+    "watch": {
+      "flatrate": [],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Donnie-Darko"
+    }
+  },
+  {
+    "slug": "source-code",
+    "title": "Source Code",
+    "year": 2011,
+    "director": "Duncan Jones",
+    "runtime": 93,
+    "genres": [
+      "Science-Fiction",
+      "Thriller",
+      "Mystery"
+    ],
+    "poster": "posters/source-code.jpg",
+    "logline": "Ein Soldat erwacht im Körper eines Fremden in einem Pendlerzug und muss in einer immer wiederkehrenden Acht-Minuten-Schleife herausfinden, wer eine Bombe an Bord gebracht hat.",
+    "en": {
+      "logline": "A soldier wakes up in a stranger's body on a commuter train and, caught in a repeating eight-minute loop, must find out who planted a bomb on board."
+    },
+    "watch": {
+      "flatrate": [
+        "Netflix"
+      ],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Source-Code"
+    }
   }
 ]
