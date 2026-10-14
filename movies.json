@@ -124,7 +124,7 @@
       "schauspiel": 4,
       "look": 2.5
     },
-    "lastWatched": 2,
+    "lastWatched": 4,
     "poster": "posters/the-invisible-guest.jpg",
     "backdrop": "backdrops/the-invisible-guest.jpg",
     "logline": "Ein erfolgreicher Geschäftsmann steht unter Mordverdacht und hat eine Nacht, um mit seiner Anwältin seine Verteidigung vorzubereiten.",
@@ -174,7 +174,7 @@
       "schauspiel": 4,
       "look": 3
     },
-    "lastWatched": 4,
+    "lastWatched": 6,
     "noTrailer": true,
     "poster": "posters/die-taschendiebin.jpg",
     "backdrop": "backdrops/die-taschendiebin.jpg",
@@ -439,7 +439,7 @@
       "schauspiel": 5,
       "look": 5
     },
-    "lastWatched": 3,
+    "lastWatched": 5,
     "poster": "posters/prospect.jpg",
     "backdrop": "backdrops/prospect.jpg",
     "logline": "Ein Teenager und ihr Vater landen auf einem fremden Waldmond, um dort wertvolle Edelsteine zu schürfen.",
@@ -614,7 +614,7 @@
         "Saturn Award: Bester Science-Fiction-Film, Hauptdarsteller (Sam Rockwell)"
       ]
     },
-    "lastWatched": 1,
+    "lastWatched": 3,
     "en": {
       "title": "Moon",
       "logline": "Astronaut Sam Bell is the only person mining helium-3 on a station on the far side of the moon. Just two weeks before the end of his three-year stint, strange things start to happen.",
@@ -1526,5 +1526,109 @@
         "nominated": []
       }
     }
+  },
+  {
+    "slug": "ex-machina",
+    "title": "Ex Machina",
+    "year": 2014,
+    "director": "Alex Garland",
+    "runtime": 108,
+    "genres": [
+      "Science-Fiction",
+      "Thriller",
+      "Drama"
+    ],
+    "moods": [
+      "KI",
+      "Sci-Fi",
+      "Spannung"
+    ],
+    "rating": 4.2,
+    "scores": {
+      "story": 4.5,
+      "unterhaltung": 4,
+      "schauspiel": 4,
+      "look": 4
+    },
+    "poster": "posters/ex-machina.jpg",
+    "backdrop": "backdrops/ex-machina.jpg",
+    "logline": "Ein junger Programmierer gewinnt eine Woche im abgelegenen Anwesen seines Chefs – und soll dort testen, ob dessen humanoide KI ein echtes Bewusstsein hat.",
+    "review": "KI-Klassiker und ebenfalls ein Must-watch für alle KI-Nerds.",
+    "highlight": "Oscar-Gewinner",
+    "awards": {
+      "won": [
+        "Oscar: Beste visuelle Effekte"
+      ],
+      "nominated": [
+        "Oscar: Bestes Originaldrehbuch",
+        "Golden Globe: Beste Nebendarstellerin (Alicia Vikander)",
+        "BAFTA: 5 Nominierungen, u. a. Originaldrehbuch und Nebendarstellerin"
+      ]
+    },
+    "en": {
+      "logline": "A young programmer wins a week at his boss's remote estate – where he is asked to test whether his humanoid AI is truly conscious.",
+      "review": "An AI classic and another must-watch for all the AI nerds out there.",
+      "highlight": "Oscar winner",
+      "awards": {
+        "won": [
+          "Oscar: Best Visual Effects"
+        ],
+        "nominated": [
+          "Oscar: Best Original Screenplay",
+          "Golden Globe: Best Supporting Actress (Alicia Vikander)",
+          "BAFTA: 5 nominations, incl. Original Screenplay and Supporting Actress"
+        ]
+      }
+    },
+    "lastWatched": 2
+  },
+  {
+    "slug": "predestination",
+    "title": "Predestination",
+    "year": 2014,
+    "director": "Michael & Peter Spierig",
+    "runtime": 97,
+    "genres": [
+      "Science-Fiction",
+      "Thriller"
+    ],
+    "moods": [
+      "Sci-Fi",
+      "Mindfuck"
+    ],
+    "rating": 3.0,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 3,
+      "schauspiel": 3,
+      "look": 3
+    },
+    "poster": "posters/predestination.jpg",
+    "backdrop": "backdrops/predestination.jpg",
+    "logline": "Ein Agent, der durch die Zeit reist, um Verbrechen zu verhindern, jagt auf seinem letzten Einsatz einen Bombenleger, der ihm immer einen Schritt voraus ist.",
+    "review": "Guter Film, kann man auf jeden Fall gucken. Aber nicht nebenbei – man muss sich schon fokussieren.",
+    "highlight": "4 AACTA Awards",
+    "awards": {
+      "won": [
+        "AACTA Awards (Australien): Beste Hauptdarstellerin (Sarah Snook), Kamera, Schnitt, Szenenbild"
+      ],
+      "nominated": [
+        "AACTA Awards: Bester Film, Regie, Adaptiertes Drehbuch"
+      ]
+    },
+    "en": {
+      "logline": "A time-travelling agent who prevents crimes takes on his final mission: hunting a bomber who is always one step ahead of him.",
+      "review": "Good film, definitely worth a watch. But not as background viewing – you really have to focus.",
+      "highlight": "4 AACTA Awards",
+      "awards": {
+        "won": [
+          "AACTA Awards (Australia): Best Actress (Sarah Snook), Cinematography, Editing, Production Design"
+        ],
+        "nominated": [
+          "AACTA Awards: Best Film, Direction, Adapted Screenplay"
+        ]
+      }
+    },
+    "lastWatched": 1
   }
 ]

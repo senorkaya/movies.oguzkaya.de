@@ -141,7 +141,7 @@ function renderStatic() {
 
 function renderLists() {
   $("favorites").innerHTML = movies.slice(0, 4).map(card).join("");
-  $("recent").innerHTML = movies.filter(m => m.lastWatched).sort((a, b) => a.lastWatched - b.lastWatched).map(card).join("");
+  $("recent").innerHTML = movies.filter(m => m.lastWatched).sort((a, b) => a.lastWatched - b.lastWatched).slice(0, 4).map(card).join("");
   renderChips();
   renderGrid();
 }
