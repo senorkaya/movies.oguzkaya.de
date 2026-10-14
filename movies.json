@@ -2447,5 +2447,321 @@
       },
       "review": "Nice film, definitely worth a watch. Didn't blow me away, but it was good!"
     }
+  },
+  {
+    "slug": "lucy",
+    "title": "Lucy",
+    "year": 2014,
+    "director": "Luc Besson",
+    "runtime": 89,
+    "genres": [
+      "Science-Fiction",
+      "Action"
+    ],
+    "moods": [
+      "Sci-Fi"
+    ],
+    "rating": 2.9,
+    "scores": {
+      "story": 3.5,
+      "unterhaltung": 3,
+      "schauspiel": 2.5,
+      "look": 2
+    },
+    "poster": "posters/lucy.jpg",
+    "backdrop": "backdrops/lucy.jpg",
+    "logline": "Als eine junge Frau in Taipeh unfreiwillig zur Drogenkurierin gemacht wird, gelangt eine experimentelle Substanz in ihren Körper und lässt sie ungeahnte geistige Fähigkeiten entwickeln.",
+    "review": "Netter Film mit einer ähnlichen Story wie „Ohne Limit“, aber leider nicht so geil umgesetzt.",
+    "awards": {
+      "won": [],
+      "nominated": [
+        "Saturn Award: Bester Action-/Abenteuerfilm",
+        "Critics' Choice: Beste Darstellerin in einem Actionfilm (Scarlett Johansson)"
+      ]
+    },
+    "en": {
+      "logline": "When a young woman in Taipei is forced to work as a drug mule, an experimental substance leaks into her body and unlocks unimaginable mental abilities.",
+      "awards": {
+        "won": [],
+        "nominated": [
+          "Saturn Award: Best Action/Adventure Film",
+          "Critics' Choice: Best Actress in an Action Movie (Scarlett Johansson)"
+        ]
+      },
+      "review": "Nice film with a similar story to Limitless, but unfortunately not executed nearly as well."
+    }
+  },
+  {
+    "slug": "looper",
+    "title": "Looper",
+    "year": 2012,
+    "director": "Rian Johnson",
+    "runtime": 118,
+    "genres": [
+      "Science-Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "moods": [
+      "Sci-Fi",
+      "Mindfuck"
+    ],
+    "rating": 2.6,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 2.5,
+      "schauspiel": 2.5,
+      "look": 2
+    },
+    "poster": "posters/looper.jpg",
+    "backdrop": "backdrops/looper.jpg",
+    "logline": "Im Jahr 2044 tötet der Auftragskiller Joe Opfer, die ihm die Mafia aus der Zukunft per Zeitreise schickt, bis eines Tages sein eigenes, 30 Jahre älteres Ich vor ihm steht.",
+    "review": "Visuell und schauspielerisch nichts Krasses, aber die Story und das Gedankenspiel sind echt gut.",
+    "highlight": "Critics' Choice Award",
+    "awards": {
+      "won": [
+        "Critics' Choice: Bester Sci-Fi-/Horrorfilm"
+      ],
+      "nominated": [
+        "Critics' Choice: Bestes Originaldrehbuch (Rian Johnson)"
+      ]
+    },
+    "en": {
+      "logline": "In 2044, hitman Joe executes targets the mob sends back from the future, until the day his own self, 30 years older, appears in front of him.",
+      "highlight": "Critics' Choice Award",
+      "awards": {
+        "won": [
+          "Critics' Choice: Best Sci-Fi/Horror Movie"
+        ],
+        "nominated": [
+          "Critics' Choice: Best Original Screenplay (Rian Johnson)"
+        ]
+      },
+      "review": "Nothing special visually or acting-wise, but the story and the thought experiment are really good."
+    }
+  },
+  {
+    "slug": "der-marsianer",
+    "title": "Der Marsianer",
+    "aka": "The Martian",
+    "year": 2015,
+    "director": "Ridley Scott",
+    "runtime": 144,
+    "genres": [
+      "Science-Fiction",
+      "Drama",
+      "Abenteuer"
+    ],
+    "moods": [
+      "Sci-Fi"
+    ],
+    "rating": 2.7,
+    "scores": {
+      "story": 2.5,
+      "unterhaltung": 3,
+      "schauspiel": 2.5,
+      "look": 3
+    },
+    "poster": "posters/der-marsianer.jpg",
+    "backdrop": "backdrops/der-marsianer.jpg",
+    "logline": "Nach einem Sturm wird der Astronaut Mark Watney für tot gehalten und allein auf dem Mars zurückgelassen, wo er mit Wissenschaft und Erfindungsgeist ums Überleben kämpft.",
+    "review": "Ist schon länger her, dass ich ihn geguckt habe, aber ich habe den Film positiv in Erinnerung.",
+    "highlight": "2 Golden Globes",
+    "awards": {
+      "won": [
+        "Golden Globe: Beste Komödie/Musical, Hauptdarsteller Komödie/Musical (Matt Damon)",
+        "Saturn Award: Regie (Ridley Scott)"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Hauptdarsteller (Matt Damon), Adaptiertes Drehbuch, Szenenbild, Tonschnitt, Tonmischung, Visuelle Effekte",
+        "BAFTA: Regie (Ridley Scott), Hauptdarsteller (Matt Damon), Schnitt, Szenenbild, Ton, Visuelle Effekte",
+        "Critics' Choice: Bester Film, Regie (Ridley Scott), Hauptdarsteller (Matt Damon), Adaptiertes Drehbuch"
+      ]
+    },
+    "en": {
+      "title": "The Martian",
+      "aka": "Der Marsianer",
+      "logline": "After a storm, astronaut Mark Watney is presumed dead and left behind alone on Mars, where he has to science his way to survival.",
+      "highlight": "2 Golden Globes",
+      "awards": {
+        "won": [
+          "Golden Globe: Best Motion Picture – Musical or Comedy, Best Actor – Musical or Comedy (Matt Damon)",
+          "Saturn Award: Best Director (Ridley Scott)"
+        ],
+        "nominated": [
+          "Oscar: Best Picture, Best Actor (Matt Damon), Best Adapted Screenplay, Best Production Design, Best Sound Editing, Best Sound Mixing, Best Visual Effects",
+          "BAFTA: Best Direction (Ridley Scott), Best Actor in a Leading Role (Matt Damon), Best Editing, Best Production Design, Best Sound, Best Special Visual Effects",
+          "Critics' Choice: Best Picture, Best Director (Ridley Scott), Best Actor (Matt Damon), Best Adapted Screenplay"
+        ]
+      },
+      "review": "It's been a while since I watched it, but I remember the film positively."
+    }
+  },
+  {
+    "slug": "sicario",
+    "title": "Sicario",
+    "year": 2015,
+    "director": "Denis Villeneuve",
+    "runtime": 121,
+    "genres": [
+      "Thriller",
+      "Krimi",
+      "Action"
+    ],
+    "moods": [
+      "Spannung",
+      "Action"
+    ],
+    "rating": 3.8,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 3.5,
+      "schauspiel": 4,
+      "look": 3.5
+    },
+    "poster": "posters/sicario.jpg",
+    "backdrop": "backdrops/sicario.jpg",
+    "logline": "Die idealistische FBI-Agentin Kate Macer wird in eine undurchsichtige Spezialeinheit geholt, die im Grenzgebiet zwischen den USA und Mexiko gegen ein mächtiges Drogenkartell vorgeht.",
+    "review": "Sehr bekannt für seine militärisch realitätsnahen Szenen. Hat richtig, richtig Spaß gemacht zu gucken!",
+    "highlight": "3 Oscar-Nominierungen",
+    "awards": {
+      "won": [],
+      "nominated": [
+        "Oscar: Kamera (Roger Deakins), Filmmusik (Jóhann Jóhannsson), Tonschnitt",
+        "Cannes: Wettbewerb um die Goldene Palme",
+        "BAFTA: Nebendarsteller (Benicio Del Toro), Kamera, Filmmusik",
+        "Critics' Choice: Bester Film, Kamera, Bester Actionfilm, Darstellerin in einem Actionfilm (Emily Blunt)"
+      ]
+    },
+    "en": {
+      "logline": "Idealistic FBI agent Kate Macer is recruited into a shadowy task force fighting a powerful drug cartel along the border between the US and Mexico.",
+      "highlight": "3 Oscar nominations",
+      "awards": {
+        "won": [],
+        "nominated": [
+          "Oscar: Best Cinematography (Roger Deakins), Best Original Score (Jóhann Jóhannsson), Best Sound Editing",
+          "Cannes: Palme d'Or (In Competition)",
+          "BAFTA: Best Actor in a Supporting Role (Benicio Del Toro), Best Cinematography, Best Original Music",
+          "Critics' Choice: Best Picture, Best Cinematography, Best Action Movie, Best Actress in an Action Movie (Emily Blunt)"
+        ]
+      },
+      "review": "Well known for its militarily realistic scenes. Was really, really fun to watch!"
+    }
+  },
+  {
+    "slug": "catch-me-if-you-can",
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "director": "Steven Spielberg",
+    "runtime": 141,
+    "genres": [
+      "Krimi",
+      "Biografie",
+      "Drama"
+    ],
+    "moods": [
+      "Klassiker"
+    ],
+    "rating": 3.5,
+    "scores": {
+      "story": 4,
+      "unterhaltung": 3,
+      "schauspiel": 4,
+      "look": 2.5
+    },
+    "poster": "posters/catch-me-if-you-can.jpg",
+    "backdrop": "backdrops/catch-me-if-you-can.jpg",
+    "logline": "In den 1960er-Jahren gibt sich der junge Frank Abagnale als Pilot, Arzt und Anwalt aus und ergaunert Millionen mit gefälschten Schecks, dicht verfolgt von einem hartnäckigen FBI-Agenten.",
+    "review": "Ein Klassiker mit Leo DiCaprio! Sehr coole Story und cooler Aufbau. Ist auch schon lange her, dass ich ihn geguckt habe.",
+    "highlight": "BAFTA-Gewinner",
+    "awards": {
+      "won": [
+        "BAFTA: Nebendarsteller (Christopher Walken)",
+        "SAG Award: Nebendarsteller (Christopher Walken)",
+        "Critics' Choice: Regie (Steven Spielberg), Filmmusik (John Williams)"
+      ],
+      "nominated": [
+        "Oscar: Nebendarsteller (Christopher Walken), Filmmusik (John Williams)",
+        "Golden Globe: Hauptdarsteller Drama (Leonardo DiCaprio)",
+        "BAFTA: Adaptiertes Drehbuch, Kostümdesign, Filmmusik",
+        "Critics' Choice: Bester Film"
+      ]
+    },
+    "en": {
+      "logline": "In the 1960s, young Frank Abagnale poses as a pilot, a doctor and a lawyer and cashes millions in forged checks, with a relentless FBI agent hot on his trail.",
+      "highlight": "BAFTA winner",
+      "awards": {
+        "won": [
+          "BAFTA: Best Actor in a Supporting Role (Christopher Walken)",
+          "SAG Award: Outstanding Performance by a Male Actor in a Supporting Role (Christopher Walken)",
+          "Critics' Choice: Best Director (Steven Spielberg), Best Score (John Williams)"
+        ],
+        "nominated": [
+          "Oscar: Best Supporting Actor (Christopher Walken), Best Original Score (John Williams)",
+          "Golden Globe: Best Actor – Motion Picture Drama (Leonardo DiCaprio)",
+          "BAFTA: Best Adapted Screenplay, Best Costume Design, Best Original Music",
+          "Critics' Choice: Best Picture"
+        ]
+      },
+      "review": "A Leo DiCaprio classic! Very cool story and structure. It's also been a long time since I watched it."
+    }
+  },
+  {
+    "slug": "the-big-short",
+    "title": "The Big Short",
+    "year": 2015,
+    "director": "Adam McKay",
+    "runtime": 130,
+    "genres": [
+      "Drama",
+      "Komödie",
+      "Biografie"
+    ],
+    "moods": [
+      "Komödie"
+    ],
+    "rating": 2.9,
+    "scores": {
+      "story": 3,
+      "unterhaltung": 2.5,
+      "schauspiel": 3.5,
+      "look": 2.5
+    },
+    "poster": "posters/the-big-short.jpg",
+    "backdrop": "backdrops/the-big-short.jpg",
+    "logline": "Mitte der 2000er-Jahre erkennen einige Außenseiter der Finanzwelt, dass der US-Immobilienmarkt auf einer gewaltigen Blase steht, und beschließen, gegen das System zu wetten.",
+    "review": "Kein super spannender Film, aber ich würde ihn fast schon als lustige Doku bezeichnen, weil er ein echtes Ereignis beschreibt.",
+    "highlight": "Oscar-Gewinner",
+    "awards": {
+      "won": [
+        "Oscar: Adaptiertes Drehbuch (Adam McKay, Charles Randolph)",
+        "BAFTA: Adaptiertes Drehbuch (Adam McKay, Charles Randolph)",
+        "Critics' Choice: Beste Komödie, Hauptdarsteller Komödie (Christian Bale), Adaptiertes Drehbuch"
+      ],
+      "nominated": [
+        "Oscar: Bester Film, Regie (Adam McKay), Nebendarsteller (Christian Bale), Schnitt",
+        "Golden Globe: Beste Komödie/Musical, Hauptdarsteller Komödie/Musical (Christian Bale, Steve Carell), Drehbuch",
+        "BAFTA: Bester Film, Regie (Adam McKay), Nebendarsteller (Christian Bale), Schnitt",
+        "SAG Award: Nebendarsteller (Christian Bale), Bestes Ensemble"
+      ]
+    },
+    "en": {
+      "logline": "In the mid-2000s, a few outsiders in the world of finance realize the US housing market is sitting on a massive bubble and decide to bet against the system.",
+      "highlight": "Oscar winner",
+      "awards": {
+        "won": [
+          "Oscar: Best Adapted Screenplay (Adam McKay, Charles Randolph)",
+          "BAFTA: Best Adapted Screenplay (Adam McKay, Charles Randolph)",
+          "Critics' Choice: Best Comedy, Best Actor in a Comedy (Christian Bale), Best Adapted Screenplay"
+        ],
+        "nominated": [
+          "Oscar: Best Picture, Best Director (Adam McKay), Best Supporting Actor (Christian Bale), Best Film Editing",
+          "Golden Globe: Best Motion Picture – Musical or Comedy, Best Actor – Musical or Comedy (Christian Bale, Steve Carell), Best Screenplay",
+          "BAFTA: Best Film, Best Direction (Adam McKay), Best Actor in a Supporting Role (Christian Bale), Best Editing",
+          "SAG Award: Outstanding Performance by a Male Actor in a Supporting Role (Christian Bale), Outstanding Performance by a Cast in a Motion Picture"
+        ]
+      },
+      "review": "Not a super suspenseful film, but I'd almost call it a funny documentary because it depicts a real event."
+    }
   }
 ]
