@@ -61,11 +61,18 @@ button { font: inherit; color: inherit; }
 .hero-small { min-height: min(52vh, 520px); }
 .wl-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; padding-top: 24px; }
 .wl-card { display: flex; background: var(--card); border-radius: 24px; overflow: hidden; }
-.wl-card img { width: 160px; flex: none; aspect-ratio: 2 / 3; object-fit: cover; }
+.wl-card img { width: 160px; flex: none; align-self: flex-start; aspect-ratio: 2 / 3; object-fit: cover; }
 .wl-body { padding: 22px 24px; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
 .wl-body h2 { margin: 0 0 4px; font-size: 26px; font-weight: 700; letter-spacing: -0.02em; line-height: 1.15; }
 .wl-body .meta { color: var(--muted); font-size: 16px; }
 .wl-body p { margin: 8px 0 0; font-size: 18px; color: #c7c7cc; }
+.watch { margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--card-2); display: grid; gap: 8px; }
+.where { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.where-label { color: var(--muted); font-size: 15px; font-weight: 600; margin-right: 4px; }
+.svc { padding: 4px 11px; border-radius: 999px; background: var(--card-2); font-size: 15px; font-weight: 600; }
+.svc.on { background: var(--accent); color: #000; }
+.watch .more { justify-self: start; color: var(--ink); font-size: 15px; font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
+.asof { color: var(--muted); font-size: 15px; margin: 28px 0 0; text-align: center; }
 
 /* Sprachschalter oben links */
 .lang {

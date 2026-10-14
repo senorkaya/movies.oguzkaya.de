@@ -5,10 +5,23 @@
     "year": 2013,
     "director": "James Ward Byrkit",
     "runtime": 89,
-    "genres": ["Thriller", "Science-Fiction"],
+    "genres": [
+      "Thriller",
+      "Science-Fiction"
+    ],
     "poster": "posters/coherence.jpg",
     "logline": "Acht Freunde treffen sich zum Abendessen, während ein Komet an der Erde vorbeizieht – dann fällt der Strom aus.",
-    "en": { "logline": "Eight friends get together for dinner while a comet passes Earth – then the power goes out." }
+    "en": {
+      "logline": "Eight friends get together for dinner while a comet passes Earth – then the power goes out."
+    },
+    "watch": {
+      "flatrate": [],
+      "buy": true,
+      "buyFrom": [
+        "Videobuster"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Coherence"
+    }
   },
   {
     "slug": "oldboy",
@@ -16,10 +29,25 @@
     "year": 2003,
     "director": "Park Chan-wook",
     "runtime": 120,
-    "genres": ["Thriller", "Mystery"],
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
     "poster": "posters/oldboy.jpg",
     "logline": "Ein Mann wird ohne Erklärung 15 Jahre lang in einem Zimmer eingesperrt und eines Tages plötzlich freigelassen.",
-    "en": { "logline": "A man is locked in a room for 15 years without explanation, then one day suddenly set free." }
+    "en": {
+      "logline": "A man is locked in a room for 15 years without explanation, then one day suddenly set free."
+    },
+    "watch": {
+      "flatrate": [],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Oldboy"
+    }
   },
   {
     "slug": "prisoners",
@@ -27,10 +55,28 @@
     "year": 2013,
     "director": "Denis Villeneuve",
     "runtime": 146,
-    "genres": ["Thriller", "Krimi", "Drama"],
+    "genres": [
+      "Thriller",
+      "Krimi",
+      "Drama"
+    ],
     "poster": "posters/prisoners.jpg",
     "logline": "Als an Thanksgiving zwei kleine Mädchen spurlos verschwinden, nimmt einer der Väter die Suche selbst in die Hand.",
-    "en": { "logline": "When two little girls vanish without a trace on Thanksgiving, one of the fathers takes the search into his own hands." }
+    "en": {
+      "logline": "When two little girls vanish without a trace on Thanksgiving, one of the fathers takes the search into his own hands."
+    },
+    "watch": {
+      "flatrate": [
+        "Netflix"
+      ],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Prisoners"
+    }
   },
   {
     "slug": "gattaca",
@@ -38,9 +84,253 @@
     "year": 1997,
     "director": "Andrew Niccol",
     "runtime": 106,
-    "genres": ["Science-Fiction", "Drama"],
+    "genres": [
+      "Science-Fiction",
+      "Drama"
+    ],
     "poster": "posters/gattaca.jpg",
     "logline": "In einer Zukunft, in der die Gene über den Lebensweg entscheiden, will ein Mann ohne perfektes Erbgut trotzdem ins All.",
-    "en": { "logline": "In a future where your genes decide your path in life, a man without perfect DNA is determined to reach space anyway." }
+    "en": {
+      "logline": "In a future where your genes decide your path in life, a man without perfect DNA is determined to reach space anyway."
+    },
+    "watch": {
+      "flatrate": [],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Gattaca"
+    }
+  },
+  {
+    "slug": "memories-of-murder",
+    "title": "Memories of Murder",
+    "year": 2003,
+    "director": "Bong Joon-ho",
+    "runtime": 127,
+    "genres": [
+      "Krimi",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "posters/memories-of-murder.jpg",
+    "logline": "1986 jagen zwei ungleiche Polizisten in einer südkoreanischen Provinz einen Serienmörder, der in Regennächten Frauen tötet.",
+    "en": {
+      "logline": "In 1986, two mismatched detectives in rural South Korea hunt a serial killer who strikes women on rainy nights."
+    },
+    "watch": {
+      "flatrate": [],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Rakuten TV"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Memories-of-Murder"
+    }
+  },
+  {
+    "slug": "fargo",
+    "title": "Fargo",
+    "year": 1996,
+    "director": "Joel & Ethan Coen",
+    "runtime": 98,
+    "genres": [
+      "Krimi",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "posters/fargo.jpg",
+    "logline": "Ein verschuldeter Autoverkäufer aus Minnesota lässt seine eigene Frau entführen, um seinem reichen Schwiegervater ein Lösegeld abzupressen – und eine hochschwangere Polizeichefin nimmt die Spur auf.",
+    "en": {
+      "logline": "A debt-ridden Minnesota car salesman arranges his own wife's kidnapping to squeeze a ransom out of his wealthy father-in-law – and a heavily pregnant police chief picks up the trail."
+    },
+    "watch": {
+      "flatrate": [
+        "HBO Max",
+        "MagentaTV"
+      ],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Fargo-Blutiger-Schnee"
+    }
+  },
+  {
+    "slug": "nightcrawler",
+    "title": "Nightcrawler",
+    "year": 2014,
+    "director": "Dan Gilroy",
+    "runtime": 117,
+    "genres": [
+      "Thriller",
+      "Krimi",
+      "Drama"
+    ],
+    "poster": "posters/nightcrawler.jpg",
+    "logline": "Ein skrupelloser Einzelgänger entdeckt das nächtliche Los Angeles als Goldgrube und filmt Unfälle und Verbrechen, um die Aufnahmen an lokale TV-Sender zu verkaufen.",
+    "en": {
+      "logline": "A ruthless loner discovers that nighttime Los Angeles is a gold mine, filming accidents and crimes to sell the footage to local TV news."
+    },
+    "watch": {
+      "flatrate": [],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Nightcrawler-Jede-Nacht-hat-ihren-Preis"
+    }
+  },
+  {
+    "slug": "enemy",
+    "title": "Enemy",
+    "year": 2013,
+    "director": "Denis Villeneuve",
+    "runtime": 90,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "poster": "posters/enemy.jpg",
+    "logline": "Ein zurückgezogener Geschichtsdozent entdeckt in einem Film einen Schauspieler, der ihm bis aufs Haar gleicht, und beginnt, seinem Doppelgänger nachzuspüren.",
+    "en": {
+      "logline": "A withdrawn history lecturer spots an actor in a movie who looks exactly like him and sets out to track down his double."
+    },
+    "watch": {
+      "flatrate": [
+        "ARD Plus",
+        "MagentaTV"
+      ],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Enemy-2014"
+    }
+  },
+  {
+    "slug": "the-lobster",
+    "title": "The Lobster",
+    "year": 2015,
+    "director": "Yorgos Lanthimos",
+    "runtime": 118,
+    "genres": [
+      "Drama",
+      "Komödie",
+      "Liebesfilm"
+    ],
+    "poster": "posters/the-lobster.jpg",
+    "logline": "In einer dystopischen Zukunft müssen Singles in einem Hotel binnen 45 Tagen einen Partner finden – sonst werden sie in ein Tier ihrer Wahl verwandelt.",
+    "en": {
+      "logline": "In a dystopian near future, single people checked into a hotel have 45 days to find a partner – or be turned into an animal of their choosing."
+    },
+    "watch": {
+      "flatrate": [],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/The-Lobster"
+    }
+  },
+  {
+    "slug": "annihilation",
+    "title": "Auslöschung",
+    "aka": "Annihilation",
+    "year": 2018,
+    "director": "Alex Garland",
+    "runtime": 110,
+    "genres": [
+      "Science-Fiction",
+      "Horror",
+      "Mystery"
+    ],
+    "poster": "posters/annihilation.jpg",
+    "logline": "Eine Biologin schließt sich einer Expedition in den „Schimmer“ an – eine rätselhafte, sich ausbreitende Zone, aus der kaum jemand zurückkehrt.",
+    "en": {
+      "title": "Annihilation",
+      "logline": "A biologist joins an expedition into 'the Shimmer', a mysterious, expanding zone from which almost no one returns."
+    },
+    "watch": {
+      "flatrate": [
+        "Paramount+"
+      ],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Ausloeschung"
+    }
+  },
+  {
+    "slug": "der-schacht",
+    "title": "Der Schacht",
+    "aka": "The Platform",
+    "year": 2019,
+    "director": "Galder Gaztelu-Urrutia",
+    "runtime": 95,
+    "genres": [
+      "Science-Fiction",
+      "Thriller",
+      "Drama"
+    ],
+    "poster": "posters/der-schacht.jpg",
+    "logline": "In einem vertikalen Gefängnis wird täglich eine einzige Plattform mit Essen von oben nach unten gesenkt – wer weiter unten haust, bekommt nur die Reste.",
+    "en": {
+      "title": "The Platform",
+      "logline": "In a vertical prison, a single platform of food descends from top to bottom each day – and those on the lower levels get only the leftovers."
+    },
+    "watch": {
+      "flatrate": [
+        "Netflix"
+      ],
+      "buy": false,
+      "buyFrom": [],
+      "justwatch": "https://www.justwatch.com/de/Film/El-hoyo"
+    }
+  },
+  {
+    "slug": "die-frau-im-nebel",
+    "title": "Die Frau im Nebel",
+    "aka": "Decision to Leave",
+    "year": 2022,
+    "director": "Park Chan-wook",
+    "runtime": 139,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Liebesfilm"
+    ],
+    "poster": "posters/die-frau-im-nebel.jpg",
+    "logline": "Ein schlafloser Kommissar ermittelt im Todesfall eines Bergsteigers und verfällt dabei zunehmend dessen undurchschaubarer Witwe.",
+    "en": {
+      "title": "Decision to Leave",
+      "logline": "An insomniac detective investigating a climber's fatal fall becomes increasingly drawn to the dead man's enigmatic widow."
+    },
+    "watch": {
+      "flatrate": [
+        "MagentaTV"
+      ],
+      "buy": true,
+      "buyFrom": [
+        "Apple TV",
+        "Prime Video",
+        "Sky Store"
+      ],
+      "justwatch": "https://www.justwatch.com/de/Film/Decision-to-Leave"
+    }
   }
 ]
