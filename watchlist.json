@@ -24,32 +24,6 @@
     }
   },
   {
-    "slug": "oldboy",
-    "title": "Oldboy",
-    "year": 2003,
-    "director": "Park Chan-wook",
-    "runtime": 120,
-    "genres": [
-      "Thriller",
-      "Mystery"
-    ],
-    "poster": "posters/oldboy.jpg",
-    "logline": "Ein Mann wird ohne Erklärung 15 Jahre lang in einem Zimmer eingesperrt und eines Tages plötzlich freigelassen.",
-    "en": {
-      "logline": "A man is locked in a room for 15 years without explanation, then one day suddenly set free."
-    },
-    "watch": {
-      "flatrate": [],
-      "buy": true,
-      "buyFrom": [
-        "Apple TV",
-        "Prime Video",
-        "Sky Store"
-      ],
-      "justwatch": "https://www.justwatch.com/de/Film/Oldboy"
-    }
-  },
-  {
     "slug": "prisoners",
     "title": "Prisoners",
     "year": 2013,

@@ -126,7 +126,7 @@
       "schauspiel": 4,
       "look": 2.5
     },
-    "lastWatched": 2,
+    "lastWatched": 3,
     "poster": "posters/the-invisible-guest.jpg",
     "backdrop": "backdrops/the-invisible-guest.jpg",
     "logline": "Ein erfolgreicher Geschäftsmann steht unter Mordverdacht und hat eine Nacht, um mit seiner Anwältin seine Verteidigung vorzubereiten.",
@@ -176,7 +176,7 @@
       "schauspiel": 4,
       "look": 3
     },
-    "lastWatched": 4,
+    "lastWatched": 5,
     "noTrailer": true,
     "poster": "posters/die-taschendiebin.jpg",
     "backdrop": "backdrops/die-taschendiebin.jpg",
@@ -442,7 +442,7 @@
       "schauspiel": 5,
       "look": 5
     },
-    "lastWatched": 3,
+    "lastWatched": 4,
     "poster": "posters/prospect.jpg",
     "backdrop": "backdrops/prospect.jpg",
     "logline": "Ein Teenager und ihr Vater landen auf einem fremden Waldmond, um dort wertvolle Edelsteine zu schürfen.",
@@ -617,7 +617,7 @@
         "Saturn Award: Bester Science-Fiction-Film, Hauptdarsteller (Sam Rockwell)"
       ]
     },
-    "lastWatched": 1,
+    "lastWatched": 2,
     "en": {
       "title": "Moon",
       "logline": "Astronaut Sam Bell is the only person mining helium-3 on a station on the far side of the moon. Just two weeks before the end of his three-year stint, strange things start to happen.",
@@ -2762,6 +2762,68 @@
         ]
       },
       "review": "Not a super suspenseful film, but I'd almost call it a funny documentary because it depicts a real event."
+    }
+  },
+  {
+    "slug": "oldboy",
+    "title": "Oldboy",
+    "year": 2003,
+    "director": "Park Chan-wook",
+    "runtime": 120,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "moods": [
+      "Plot-Twist",
+      "Klassiker"
+    ],
+    "rating": 1.5,
+    "scores": {
+      "story": 2.5,
+      "unterhaltung": 1.5,
+      "schauspiel": 0.5,
+      "look": 0.5
+    },
+    "lastWatched": 1,
+    "poster": "posters/oldboy.jpg",
+    "backdrop": "backdrops/oldboy.jpg",
+    "logline": "Ein Mann wird ohne Erklärung 15 Jahre lang in einem Zimmer eingesperrt und eines Tages plötzlich freigelassen.",
+    "review": "Krasse Story, ein echt verrückter Plot. Aber alles andere an dem Film fand ich anstrengend zu gucken.",
+    "highlight": "Großer Preis der Jury in Cannes",
+    "awards": {
+      "won": [
+        "Cannes: Großer Preis der Jury",
+        "Grand Bell Awards: Regie, Hauptdarsteller (Choi Min-sik), Schnitt, Musik",
+        "Blue Dragon Awards: Regie, Hauptdarsteller, Nebendarstellerin",
+        "Hong Kong Film Award: Bester asiatischer Film"
+      ],
+      "nominated": [
+        "Cannes: Goldene Palme",
+        "Critics' Choice: Bester fremdsprachiger Film",
+        "Saturn Award: Bester Action-/Abenteuerfilm",
+        "Grand Bell Awards: Bester Film"
+      ]
+    },
+    "en": {
+      "title": "Oldboy",
+      "logline": "A man is locked in a room for 15 years without explanation, and one day he is suddenly set free.",
+      "review": "Wild story, a really crazy plot. But everything else about the film was exhausting to watch.",
+      "highlight": "Cannes Grand Prix",
+      "awards": {
+        "won": [
+          "Cannes: Grand Prix",
+          "Grand Bell Awards: Best Director, Best Actor (Choi Min-sik), Best Editing, Best Music",
+          "Blue Dragon Awards: Best Director, Best Actor, Best Supporting Actress",
+          "Hong Kong Film Award: Best Asian Film"
+        ],
+        "nominated": [
+          "Cannes: Palme d'Or",
+          "Critics' Choice: Best Foreign Language Film",
+          "Saturn Award: Best Action or Adventure Film",
+          "Grand Bell Awards: Best Film"
+        ]
+      }
     }
   }
 ]
