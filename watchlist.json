@@ -277,37 +277,6 @@
     }
   },
   {
-    "slug": "die-frau-im-nebel",
-    "title": "Die Frau im Nebel",
-    "aka": "Decision to Leave",
-    "year": 2022,
-    "director": "Park Chan-wook",
-    "runtime": 139,
-    "genres": [
-      "Thriller",
-      "Mystery",
-      "Liebesfilm"
-    ],
-    "poster": "posters/die-frau-im-nebel.jpg",
-    "logline": "Ein schlafloser Kommissar ermittelt im Todesfall eines Bergsteigers und verfällt dabei zunehmend dessen undurchschaubarer Witwe.",
-    "en": {
-      "title": "Decision to Leave",
-      "logline": "An insomniac detective investigating a climber's fatal fall becomes increasingly drawn to the dead man's enigmatic widow."
-    },
-    "watch": {
-      "flatrate": [
-        "MagentaTV"
-      ],
-      "buy": true,
-      "buyFrom": [
-        "Apple TV",
-        "Prime Video",
-        "Sky Store"
-      ],
-      "justwatch": "https://www.justwatch.com/de/Film/Decision-to-Leave"
-    }
-  },
-  {
     "slug": "sieben",
     "title": "Sieben",
     "aka": "Se7en",
